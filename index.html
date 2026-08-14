@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>James Zhao</title>
-<meta name="description" content="Daily Unfiltered Thoughts" />
+<title>Daily Notes</title>
+<meta name="description" content="A daily note on tools, thinking, and small experiments — with real LaTeX." />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Daily Notes" />
 <meta property="og:description" content="A daily note on tools, thinking, and small experiments." />
@@ -24,6 +24,57 @@
 <script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
 <script>
 const app = document.getElementById('app');
+
+// --- Email subscribe ---------------------------------------------------
+// Leave SUBSCRIBE_ENDPOINT empty to use a plain mailto: form.
+// Or paste a form endpoint (Formspree, Buttondown, Mailchimp, etc.) here.
+const SUBSCRIBE_ENDPOINT = '';
+const SUBSCRIBE_EMAIL = 'you@example.com';
+
+function subscribeBlock() {
+  return `<section class="subscribe">
+    <span class="mono-label">Get a note every day</span>
+    <form id="subscribe-form">
+      <input type="email" name="email" required placeholder="you@example.com" aria-label="Email address" />
+      <button type="submit">Subscribe</button>
+    </form>
+    <p class="subscribe-msg mono-label" hidden></p>
+  </section>`;
+}
+
+function wireSubscribe() {
+  const form = document.getElementById('subscribe-form');
+  if (!form) return;
+  const msg = form.parentElement.querySelector('.subscribe-msg');
+  const say = t => { msg.textContent = t; msg.hidden = false; };
+  form.addEventListener('submit', async e => {
+    e.preventDefault();
+    const email = form.email.value.trim();
+    if (!email) return;
+    if (!SUBSCRIBE_ENDPOINT) {
+      location.href = 'mailto:' + SUBSCRIBE_EMAIL + '?subject=' +
+        encodeURIComponent('Subscribe to ' + (site ? site.title : 'Daily Notes')) +
+        '&body=' + encodeURIComponent('Please add ' + email + ' to the daily list.');
+      say('Opening your email app…');
+      return;
+    }
+    form.querySelector('button').disabled = true;
+    say('Subscribing…');
+    try {
+      const r = await fetch(SUBSCRIBE_ENDPOINT, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+        body: JSON.stringify({ email })
+      });
+      if (!r.ok) throw new Error(r.status);
+      form.remove();
+      say("You're in. A new note lands in your inbox every day.");
+    } catch {
+      form.querySelector('button').disabled = false;
+      say('Something went wrong — try again?');
+    }
+  });
+}
 
 function slugify(s) {
   return s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
@@ -100,8 +151,9 @@ function renderIndex() {
       <span class="mono-label">${fmtDate(p.date)}</span>
       <h2>${esc(p.title)}</h2>
       <p class="preview">${esc(p.preview)}…</p>
-    </a></li>`).join('') + `</ul>
+    </a></li>`).join('') + `</ul>` + subscribeBlock() + `
     <footer class="site-foot"><span class="mono-label">${site.posts.length} notes</span></footer>`;
+  wireSubscribe();
   window.scrollTo(0, 0);
 }
 
@@ -114,8 +166,9 @@ function renderPost(slug) {
       <span class="mono-label">${fmtDate(p.date)}</span>
       <h1>${esc(p.title)}</h1>
       <div class="post-body">${md(p.body)}</div>
-    </article>
+    </article>` + subscribeBlock() + `
     <footer class="site-foot"><a class="mono-label" href="#/">← All notes</a></footer>`;
+  wireSubscribe();
   window.scrollTo(0, 0);
 }
 
