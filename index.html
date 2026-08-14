@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Daily Notes</title>
+<meta name="description" content="A daily note on tools, thinking, and small experiments — with real LaTeX." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Daily Notes" />
+<meta property="og:description" content="A daily note on tools, thinking, and small experiments." />
+<meta name="twitter:card" content="summary" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Sans:wght@400;500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" />
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div class="wrap" id="app">
+  <p class="mono-label">Loading…</p>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+<script>
+const app = document.getElementById('app');
+
+function slugify(s) {
+  return s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+}
+function fmtDate(iso) {
+  const d = new Date(iso + 'T00:00:00');
+  return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+}
+function esc(s) {
+  return s.replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+}
+
+// Render $$block$$ and $inline$ with KaTeX before markdown parsing.
+function renderMath(src) {
+  const store = [];
+  const stash = html => `@@MATH${store.push(html) - 1}@@`;
+  let out = src.replace(/\$\$([\s\S]+?)\$\$/g, (_, tex) => {
+    try { return stash('<div class="katex-display-wrap">' + katex.renderToString(tex.trim(), { displayMode: true, throwOnError: false }) + '</div>'); }
+    catch { return _; }
+  });
+  out = out.replace(/(^|[^\\$])\$([^$\n]+?)\$/g, (m, pre, tex) => {
+    try { return pre + stash(katex.renderToString(tex.trim(), { throwOnError: false })); }
+    catch { return m; }
+  });
+  return { text: out, restore: html => html.replace(/@@MATH(\d+)@@/g, (_, i) => store[i]) };
+}
+
+function md(src) {
+  const { text, restore } = renderMath(src);
+  return restore(marked.parse(text));
+}
+
+function parse(raw) {
+  const lines = raw.split('\n');
+  let title = 'Daily Notes', tagline = '';
+  const posts = [];
+  let current = null;
+
+  for (const line of lines) {
+    const head = line.match(/^===\s*(\d{4}-\d{2}-\d{2})\s*\|\s*(.+)$/);
+    if (head) {
+      current = { date: head[1], title: head[2].trim(), body: [] };
+      posts.push(current);
+      continue;
+    }
+    if (current) { current.body.push(line); continue; }
+    if (/^#\s+/.test(line)) title = line.replace(/^#\s+/, '').trim();
+    else if (/^>\s?/.test(line)) tagline = line.replace(/^>\s?/, '').trim();
+  }
+
+  for (const p of posts) {
+    p.body = p.body.join('\n').trim();
+    p.slug = p.date + '-' + slugify(p.title);
+    const firstPara = p.body.split(/\n\s*\n/).find(b => b.trim() && !b.startsWith('#')) || '';
+    p.preview = firstPara.replace(/[*_`>#$\\]/g, '').replace(/\s+/g, ' ').trim().slice(0, 180);
+  }
+  posts.sort((a, b) => b.date.localeCompare(a.date) || a.title.localeCompare(b.title));
+  return { title, tagline, posts };
+}
+
+let site = null;
+
+function head() {
+  return `<header class="site-head">
+    <h1>${esc(site.title)}</h1>
+    ${site.tagline ? `<p class="tagline">${esc(site.tagline)}</p>` : ''}
+  </header>`;
+}
+
+function renderIndex() {
+  document.title = site.title;
+  app.innerHTML = head() + `<ul class="post-list">` + site.posts.map(p => `
+    <li><a href="#/${p.slug}">
+      <span class="mono-label">${fmtDate(p.date)}</span>
+      <h2>${esc(p.title)}</h2>
+      <p class="preview">${esc(p.preview)}…</p>
+    </a></li>`).join('') + `</ul>
+    <footer class="site-foot"><span class="mono-label">${site.posts.length} notes</span></footer>`;
+  window.scrollTo(0, 0);
+}
+
+function renderPost(slug) {
+  const p = site.posts.find(x => x.slug === slug);
+  if (!p) return renderIndex();
+  document.title = p.title + ' — ' + site.title;
+  app.innerHTML = `<a class="back mono-label" href="#/">← All notes</a>
+    <article>
+      <span class="mono-label">${fmtDate(p.date)}</span>
+      <h1>${esc(p.title)}</h1>
+      <div class="post-body">${md(p.body)}</div>
+    </article>
+    <footer class="site-foot"><a class="mono-label" href="#/">← All notes</a></footer>`;
+  window.scrollTo(0, 0);
+}
+
+function route() {
+  const slug = location.hash.replace(/^#\/?/, '');
+  slug ? renderPost(slug) : renderIndex();
+}
+
+window.addEventListener('hashchange', route);
+
+fetch('posts.md?v=' + Date.now())
+  .then(r => { if (!r.ok) throw new Error(r.status); return r.text(); })
+  .then(raw => { site = parse(raw); route(); })
+  .catch(() => {
+    app.innerHTML = `<header class="site-head"><h1>Daily Notes</h1></header>
+      <p class="preview">Could not load <code>posts.md</code>. If you opened this file directly
+      from disk, run a local server instead: <code>python3 -m http.server</code> then visit
+      <code>localhost:8000</code>. On GitHub Pages it works as-is.</p>`;
+  });
+</script>
+</body>
+</html>
