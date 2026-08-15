@@ -7,6 +7,20 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-08-15 | Faux five Fireside
+
+I love eating. Consuming food runs deep through my soul… from a young age I’ve loved shovelling food into my mouth. On the downside I eat extremely quickly and in large quantities, both of which juxtapose my desire to stay in the 75kg weight class for powerlifting.
+
+Fine dining is interesting. On the one hand it’s never enough food, on the other hand I’m chasing those memorable moments where you close your eyes, savour the moment and know this is one of the best bites of food ever. But I eat so quickly I rarely remember what I’ve eaten at these restaurants, or what the experience was like. I only remember 6 or so off the top of my head: Mugaritz: worst meal of my life; Ultraviolet: 25 courses of creativity and delight; Chairman: service sucked so bad; Burnt Ends, Atomic and Sézanne: all so good I would or I have gone back.
+
+Now I’ve started writing Google reviews for restaurants I go to. Firstly, I’ve realised how much it helps businesses: Jim actually gets  a decent number of leads from Google reviews, especially when people use AI to summarise the actual content in the reviews. Secondly, it’s to help me remember what I ate and what the experience was like.
+
+I’m pretty lenient on the stars though. Recently I gave Louise and Raucou both 5 on Google, they were more a 7/10 and 5/10 respectively. Louise was decent but the hyped yellow chicken was overrated. Nothing really stood out except the perfectly cooked cod. Raucou was extremely mid, they could’ve done so much more with the cheese omakase concept… like a cheese trolley with all the different cheeses at the end. But alas, on Google Maps, I gave them 5 stars and some lengthy and honest opinions in the reviews for AI to parse.
+
+Fireside I would give a very solid 8/10 (obviously 5 star on Google). Positives: The 1kg El Capricho Frisona bone in ribeye was cooked perfectly tender, although the ribeye cap was quite chewy (we were given the option of not having the cap before we weighed the steak and were confused by that but it made sense after). The side dish of beans had a banging romesco sauce. Negatives: Beef tartare was fine, looked pretty with the caviar, crackers a little boring. The carabinero prawn with a side of showmanship and beef tallow looked cool, but when it cooled down the tallow left a fatty aftertaste in the mouth. The sourdough was pretty dense and the smoked butter was too smoky to be enjoyable.
+
+The only restaurant in Hong Kong to have beef from El Capricho (namesakes are number 1 and 10 on World’s 101 Best Steakhouses 2026), it’s definitely got the HK price premium but would go back. Actually want to try the dry aged tuna steak…
+
 
 === 2026-08-14 | Parents were always right
 
