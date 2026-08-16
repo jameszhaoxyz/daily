@@ -35,12 +35,22 @@ const SUBSCRIBE_EMAIL = 'you@example.com';
 function subscribeBlock() {
   return `<section class="subscribe">
     <span class="mono-label">Get a note every day</span>
-    <form id="subscribe-form">
-      <input type="email" name="email" required placeholder="you@example.com" aria-label="Email address" />
-      <button type="submit">Subscribe</button>
+    <form
+      action="https://buttondown.com/api/emails/embed-subscribe/jameszhao"
+      method="post"
+      target="popupwindow"
+      onsubmit="window.open('https://buttondown.com/jameszhao', 'popupwindow')"
+      class="embeddable-buttondown-form"
+    >
+      <label for="bd-email">Enter your email</label>
+      <input type="email" name="email" id="bd-email" required placeholder="you@example.com" />
+      <input type="submit" value="Subscribe" />
+      <p>
+        <a href="https://buttondown.com/refer/jameszhao" target="_blank">
+          Powered by Buttondown.
+        </a>
+      </p>
     </form>
-    <p class="subscribe-msg mono-label" hidden></p>
-    <p><a href="https://buttondown.com/refer/jameszhao" target="_blank">Powered by Buttondown.</a></p>
   </section>`;
 }
 
