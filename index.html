@@ -25,28 +25,11 @@
 <script>
 const app = document.getElementById('app');
 
-// from Buttondown
-
-  <form
-  action="https://buttondown.com/api/emails/embed-subscribe/jameszhao"
-  method="post"
-  class="embeddable-buttondown-form"
->
-  <label for="bd-email">Enter your email</label>
-  <input type="email" name="email" id="bd-email" />
-  <input type="submit" value="Subscribe" />
-  <p>
-    <a href="https://buttondown.com/refer/jameszhao" target="_blank">
-      Powered by Buttondown.
-    </a>
-  </p>
-</form>
-
   
 // --- Email subscribe ---------------------------------------------------
 // Leave SUBSCRIBE_ENDPOINT empty to use a plain mailto: form.
 // Or paste a form endpoint (Formspree, Buttondown, Mailchimp, etc.) here.
-const SUBSCRIBE_ENDPOINT = '';
+const SUBSCRIBE_ENDPOINT = 'https://buttondown.com/api/emails/embed-subscribe/jameszhao';
 const SUBSCRIBE_EMAIL = 'you@example.com';
 
 function subscribeBlock() {
