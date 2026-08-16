@@ -40,41 +40,42 @@ function subscribeBlock() {
       <button type="submit">Subscribe</button>
     </form>
     <p class="subscribe-msg mono-label" hidden></p>
+    <p><a href="https://buttondown.com/refer/jameszhao" target="_blank">Powered by Buttondown.</a></p>
   </section>`;
 }
 
 function wireSubscribe() {
-  const form = document.getElementById('subscribe-form');
-  if (!form) return;
-  const msg = form.parentElement.querySelector('.subscribe-msg');
-  const say = t => { msg.textContent = t; msg.hidden = false; };
-  form.addEventListener('submit', async e => {
-    e.preventDefault();
-    const email = form.email.value.trim();
-    if (!email) return;
-    if (!SUBSCRIBE_ENDPOINT) {
-      location.href = 'mailto:' + SUBSCRIBE_EMAIL + '?subject=' +
-        encodeURIComponent('Subscribe to ' + (site ? site.title : 'Daily Notes')) +
-        '&body=' + encodeURIComponent('Please add ' + email + ' to the daily list.');
-      say('Opening your email app…');
-      return;
-    }
-    form.querySelector('button').disabled = true;
-    say('Subscribing…');
-    try {
-      const r = await fetch(SUBSCRIBE_ENDPOINT, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
-        body: JSON.stringify({ email })
-      });
-      if (!r.ok) throw new Error(r.status);
-      form.remove();
-      say("You're in. A new note lands in your inbox every day.");
-    } catch {
-      form.querySelector('button').disabled = false;
-      say('Something went wrong — try again?');
-    }
-  });
+//  const form = document.getElementById('subscribe-form');
+//  if (!form) return;
+//  const msg = form.parentElement.querySelector('.subscribe-msg');
+//  const say = t => { msg.textContent = t; msg.hidden = false; };
+//  form.addEventListener('submit', async e => {
+//    e.preventDefault();
+//    const email = form.email.value.trim();
+//    if (!email) return;
+//    if (!SUBSCRIBE_ENDPOINT) {
+//      location.href = 'mailto:' + SUBSCRIBE_EMAIL + '?subject=' +
+//        encodeURIComponent('Subscribe to ' + (site ? site.title : 'Daily Notes')) +
+//        '&body=' + encodeURIComponent('Please add ' + email + ' to the daily list.');
+//      say('Opening your email app…');
+//      return;
+//    }
+//    form.querySelector('button').disabled = true;
+//    say('Subscribing…');
+//    try {
+//      const r = await fetch(SUBSCRIBE_ENDPOINT, {
+//        method: 'POST',
+//        headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+//        body: JSON.stringify({ email })
+//      });
+//      if (!r.ok) throw new Error(r.status);
+//      form.remove();
+//      say("You're in. A new note lands in your inbox every day.");
+//    } catch {
+//      form.querySelector('button').disabled = false;
+//      say('Something went wrong — try again?');
+//    }
+//  });
 }
 
 function slugify(s) {
