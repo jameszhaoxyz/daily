@@ -7,6 +7,21 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+
+=== 2026-08-16 | Blame it on the Boomers
+
+A few days ago I listened to a podcast with Caleb Hammer, who is what I’d describe as an American personal finance social media influencer? Anyway one of the things he was very vocal about was how the Boomers had it easy back in the day, all they had to do was invest in the stock market and property and they’d all be chilling and multi-millionaires now.
+
+Given I would consider this a consensus view, my initial reaction was ‘no sh*t Sherlock, property and stock market has been up only’ but then after a few days something didn’t sit right. Seems too easy to blame it on them. Obviously a lot of the world’s social security and pension schemes are overly bloated due to their pyramid scheme-like nature and declining birth rates, AND obviously property prices have rocketed, AND obviously the stock market has been compounding at an insane rate (just look at Buffett and Berkshire) but it likely wasn’t THAT obvious at the time.
+
+Hindsight is 20/20. It made me think, what’s the next generation going to say for us?
+
+“If they just put 20% of their paychecks in the NASDAQ 100*, they’d be sorted for life!” 
+*possibly interchangeable for Bitcoin? Gold? HSTECH? NIFTY50? SPCX? Solana? SSE STAR 50? Base set 1st edition shadowless Pokémon cards? Deadstock Virgil Abloh The Ten sneakers?
+
+I don’t think it’s that obvious, although I have my bets. And I don’t think it was that obvious back then… otherwise there’d be millions of Buffetts.
+
+
 === 2026-08-15 | Faux five Fireside
 
 I love eating. Consuming food runs deep through my soul… from a young age I’ve loved shovelling food into my mouth. On the downside I eat extremely quickly and in large quantities, both of which juxtapose my desire to stay in the 75kg weight class for powerlifting.
