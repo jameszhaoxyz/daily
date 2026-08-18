@@ -7,6 +7,13 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-08-17 | Beauty of China
+
+This year one of my goals was to see more of China, having been on my doorstep for over 10 years and barely scratching the surface. Kicked it off with earnest by venturing far north to experience Harbin’s famous Ice and Snow Festival (which was relatively underwhelming) and since January this goal has fallen to the wayside, but I intend on picking it up over the next few months.
+
+Today I learnt about yet another stunning location I’ve never heard of or seen before: 西江千户苗寨 Qianhu Miao Village and 荔波小七孔 Libo Xiaoqikong near Guiyang in the Guizhou province. It mixes culture, being the largest Miao (an ethnic minority of China) settlement in the world with turquoise blue waterfalls, extended greenery and some breathtaking pictures. 
+
+Yet another location to add to the growing bucket list of must visits in China. China never ceases to amaze me.
 
 === 2026-08-16 | Blame it on the Boomers
 
