@@ -7,6 +7,67 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-08-18 | Simple minds, simple math
+
+I first did this ‘analysis’ middle of last year. 
+
+For BTC 
+
+Cycle 1 
+
+Cycle Low $2: Nov 18th, 2011 
+
+Halving (50 to 25) $12: Nov 28th, 2012 (+376 days) 
+
+Cycle High $1,163: Nov 30th, 2013 (+367 days) 
+
+LOW TO HIGH: 743 days
+
+Cycle 2 
+
+Cycle Low $152: Jan 14th, 2015 (+410 days, 87% drawdown) 
+
+Halving (25 to 12.5) $650: Jul 9th, 2016 (+542 days) 
+
+Cycle High $19,783: Dec 17th, 2017 (+526 days) 
+
+LOW TO HIGH: 1,068 days
+
+Cycle 3 
+
+Cycle Low $3,122: Dec 15th, 2018 (+363 days, 84% drawdown) 
+
+Halving (12.5 to 6.25) $8,600: May 11th, 2020 (+513 days) 
+
+Cycle High $69,000: Nov 10th, 2021 (+548 days) 
+
+LOW TO HIGH: 1,061 days
+
+Cycle 4 
+
+Cycle Low $15,476: Nov 21st, 2022 (+376 days, 78% drawdown) 
+
+Halving (6.25 to 3.125) $64,000: Apr 20th, 2024 (+516 days) 
+
+Cycle High $126,198: Oct 6th, 2025 (+534 days) 
+
+LOW TO HIGH: 1,050 days
+
+Cycle 5 by simple math:
+
+Cycle Low: ~mid Oct, 2026 (70% drawdown would be $40k)
+
+Halving (3.125 to 1.5625): ~end Mar/ start Apr, 2028 (513–542 days)
+
+Cycle High: ~Sep–Oct 2029 (~535 days)
+
+I remember sitting in the summer of 2025 thinking: it can’t be this simple?! Regardless I had the start of October marked in the calendar. When the time came, I just didn’t believe it; the macro didn’t make sense, everything lined up for a continued rally in all speculative markets. Since then tech stocks have continued to rip, whilst alligator jaws have opened up against BTC (they had pretty decent correlation until they didn’t).
+
+If it’s really that easy, then the decoupling is here to stay as I can’t see tradfi coming down before the midterms, which means sooner rather than later BTC starts living up to its digital gold narrative. Time to confirm the simulation.
+
+Shuffle up and deal
+
+
 === 2026-08-17 | Beauty of China
 
 This year one of my goals was to see more of China, having been on my doorstep for over 10 years and barely scratching the surface. Kicked it off with earnest by venturing far north to experience Harbin’s famous Ice and Snow Festival (which was relatively underwhelming) and since January this goal has fallen to the wayside, but I intend on picking it up over the next few months.
