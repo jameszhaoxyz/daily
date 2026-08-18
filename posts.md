@@ -57,9 +57,9 @@ Cycle 5 by simple math:
 
 Cycle Low: ~mid Oct, 2026 (70% drawdown would be $40k)
 
-Halving (3.125 to 1.5625): ~end Mar/ start Apr, 2028 (513–542 days)
+Halving (3.125 to 1.5625): ~end Mar-start Apr, 2028 (513–542 days)
 
-Cycle High: ~Sep–Oct 2029 (~535 days)
+Cycle High: ~Sep–Oct, 2029 (~535 days)
 
 I remember sitting in the summer of 2025 thinking: it can’t be this simple?! Regardless I had the start of October marked in the calendar. When the time came, I just didn’t believe it; the macro didn’t make sense, everything lined up for a continued rally in all speculative markets. Since then tech stocks have continued to rip, whilst alligator jaws have opened up against BTC (they had pretty decent correlation until they didn’t).
 
