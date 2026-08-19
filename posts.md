@@ -7,6 +7,14 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-08-19 | The big question
+
+One of my favourite questions to ask people (albeit it’s been a while) to spur conversation and learning is “If you were to write a book about your life up to now, how many chapters would you have and what would they be called?”
+
+People love talking about themselves, but this hits people more deeply than you would think. I even might start asking this in interviews, it’s good to learn about someone’s upbringing when thinking about whether you want to work with someone or not!
+
+If you are wondering whether someone’s upbringing is that important, I’ll have you know one of my previous (and very well known) employers had me go through a 5 hour psychiatrist interview before confirming my job offer, scraping through my childhood in exceptionally granular detail. It’s important to some!
+
 === 2026-08-18 | Simple minds, simple math
 
 I first did this ‘analysis’ middle of last year. 
