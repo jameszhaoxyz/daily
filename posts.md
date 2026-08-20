@@ -7,6 +7,20 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-08-20 | All roads lead to… the moon
+
+Bessent decided to put a cap on the long end on Treasuries yesterday, doubling the capacity to for the Treasury to buy out there as it’s gotten wild out there.
+
+I guess to finance that… Bessent needs to issue more short term debt?
+
+Which means that… Bessent needs more buyers of US short term debt? And if you look around, the biggest buyers of short term debt are… stablecoin issuers?
+
+Which means that… Bessent needs stablecoin issuers to issue more stables to back it with more US debt?
+
+Which means that… Bessent needs Bitcoin to go to the moon?
+
+Strap in, destination: the moon.
+
 === 2026-08-19 | The big question
 
 One of my favourite questions to ask people (albeit it’s been a while) to spur conversation and learning is “If you were to write a book about your life up to now, how many chapters would you have and what would they be called?”
