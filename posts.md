@@ -9,7 +9,7 @@ Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
 === 2026-08-20 | All roads lead to… the moon
 
-Bessent decided to put a cap on the long end on Treasuries yesterday, doubling the capacity to for the Treasury to buy out there as it’s gotten wild out there.
+Bessent decided to put a cap on the long end on Treasuries yesterday, doubling the capacity for the Treasury to buy out there as it’s gotten wild recently.
 
 I guess to finance that… Bessent needs to issue more short term debt?
 
