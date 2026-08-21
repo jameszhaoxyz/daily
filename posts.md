@@ -7,6 +7,16 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-08-21 | Privacy is a fallacy
+
+The Western world harps on about privacy, whilst the Chinese happily trade privacy for convenience. They know they’re being monitored, the rest of the world pretend to not know they’re being monitored.
+
+OpenAI just launched the ability to use AI to reply to your messages. How can you be so blind?
+
+In the future we’ll all be able to communicate telepathically and machines will be able to read our minds anyway. What’s the best way to prepare? Imagine you have a PA who can see all your personal communications at all times.
+
+I would say learn to communicate by code, but you’ll have to assume all code can be cracked. Honestly, carrier pigeon might be the best way to communicate one day…
+
 === 2026-08-20 | All roads lead to… the moon
 
 Bessent decided to put a cap on the long end on Treasuries yesterday, doubling the capacity for the Treasury to buy out there as it’s gotten wild recently.
