@@ -7,6 +7,20 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-08-22 | Year E11even
+
+Tomorrow will be my 19th meet on Open Powerlifting (not counting a few in HK IPF). In the depths of my water and gut cut, I feel mentally and physically great, which definitely doesn’t happen every time.
+
+This prep I’ve relaxed a bit more diet wise, enjoying multiple parfaits (in Sapporo), holidays and meals out close enough that would’ve made me previously sweat, and as a consequence I’ve been able to enjoy the process more than usual. 
+
+It seems powerlifting as a sport is dying a little, both locally and abroad, which I think ties in with today’s attention economy. People want things now, people want results now, and powerlifting is one of those things where if you’re not born insanely gifted, you have to GRIND. Even if you’re insanely gifted, you still have to work incredibly hard to get to the top.
+
+I get asked before every meet ‘what’s numbers are you hitting?’, and my answer a couple of years ago is very different to now. A couple of years ago I would’ve told you my reach thirds, today my answer is ‘whatever is there on the day’ and I’m ecstatic	with that answer.
+
+I’ve done the prep, I’ve given my training my all, I trust my coach and I will just take what’s there after each attempt. I’m here for the long term, and every meet, every prep I’m just trying to figure out what works best for me.
+
+Don’t get me wrong, I have lifetime goals. I will squat 250kg, I will bench 405lbs, I will deadlift 300kg+ and I will total 10x bodyweight at some point in my life. But I just enjoy powerlifting for the sake of powerlifting, and tomorrow is yet another meet to figure out how I can get closer to my lifetime goals.
+
 === 2026-08-21 | Privacy is a fallacy
 
 The Western world harps on about privacy, whilst the Chinese happily trade privacy for convenience. They know they’re being monitored, the rest of the world pretend to not know they’re being monitored.
