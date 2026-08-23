@@ -13,7 +13,7 @@ One day we’ll figure out the squat, I’m sure. Just gotta keep grinding.
 
 197.5/145/270
 
-Far from my best but we did the best under the circumstances. Have some good data points to work with into Houston.
+Far from my best but we took everything we had under the circumstances. Have some good data points to work with into Houston.
 
 === 2026-08-22 | Year E11even
 
