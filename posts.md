@@ -7,6 +7,14 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-08-23 | One day
+
+One day we’ll figure out the squat, I’m sure. Just gotta keep grinding.
+
+197.5/145/270
+
+Far from my best but we did the best under the circumstances. Have some good data points to work with into Houston.
+
 === 2026-08-22 | Year E11even
 
 Tomorrow will be my 19th meet on Open Powerlifting (not counting a few in HK IPF). In the depths of my water and gut cut, I feel mentally and physically great, which definitely doesn’t happen every time.
