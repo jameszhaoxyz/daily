@@ -7,6 +7,18 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-08-24 | Underrated forms of wealth
+
+There are many obvious forms of wealth, but I find my life rich in many underrated forms.
+
+I think the most controversial one is averaging 22k steps daily for the last 2 years. Having the time, conditions and physical ability to walk almost everywhere, with time to indulge in self-thought and mental clarity is incredibly rewarding. I listen to podcasts, I think about the markets, I talk to myself- I find myself extremely fortunate to do that day in day out.
+
+I find it incredibly odd when people boast that they Ubered from 10 minutes down the road? Waiting around then being stuck in a car in a position which our bodies were not made for is not something I find particularly enticing, although I’m aware that I’m more self conscious of that due to my history of back injuries.
+
+One form of wealth that I grew up with and simultaneously looking forward to in the future is having family dinner every night together. 
+
+To underrated forms of wealth!
+
 === 2026-08-23 | One day
 
 One day we’ll figure out the squat, I’m sure. Just gotta keep grinding.
