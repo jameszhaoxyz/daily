@@ -7,6 +7,14 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-08-25 | Schrödinger’s fraud
+
+When does a fraud become a fraud? Despite being a claimant on the FTX estate, I always thought to myself: at which point did FTX/SBF/Alameda become a fraud? Theoretically, if he never got caught, it’s technically not a fraud.
+
+And the chances he never got caught were quite high… SBF would probably go down as the greatest investor of all time if not for the asterisk. He’s hit so many multi baggers it’s not even a contest… Solana, Anthropic, Cursor. The guy was so early to everything, just had a duration mismatch and got caught with his pants down.
+
+I’m sure there are many smaller cases of Schrödinger’s fraud out there.
+
 === 2026-08-24 | Underrated forms of wealth
 
 There are many obvious forms of wealth, but I find my life rich in many underrated forms.
