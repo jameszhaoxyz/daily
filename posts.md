@@ -7,6 +7,14 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-08-26 | Hybrid standardised tests
+
+I recently signed up to do Hyrox open men’s singles in Sanya, China for fun. I was around 15 minutes late to the sign up, by which time the mixed doubles AND men’s pro singles had both sold out. Given this is a random city in China, I thought it was kinda wild to sell out fast.
+
+But then the more I think about it, it makes sense. Chinese culture is build on standardised tests, it’s why we excel at math and science, things with hard answers that you can study for and compare yourself against others. All through childhood they have exams that rank you across provinces and cities, so it actually makes sense that Chinese people love Hyrox. It’s basically a standardised test where you are ranked against the world and it’s the same everywhere you do it.
+
+And what makes it better is, it’s accessible, and money can’t you placings. Just like math tests.
+
 === 2026-08-25 | Schrödinger’s fraud
 
 When does a fraud become a fraud? Despite being a claimant on the FTX estate, I always thought to myself: at which point did FTX/SBF/Alameda become a fraud? Theoretically, if he never got caught, it’s technically not a fraud.
