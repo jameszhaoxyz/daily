@@ -7,6 +7,14 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-08-27 | Decisions under compromise
+
+It’s hard for me to assess personal decisions made under normal types of deprivation, as I do not put myself in those states. For example, sleep deprivation, if I miss a couple of hours a night of sleep (under 5 times a year), it’s likely I will make up the next day anyway; generally I cannot relate to people who say they make compromised decisions under deprived mental or physical states.
+
+However, I have now confirmed that there is now one compromised state in which I make poor decisions and I will rectify this going forwards. During the last few days of my cut for competition, I am mentally fixated on consuming as much food as possible after the competition; and I’ve arranged eating competitions and buffets in the days after competing. The last two competitions have ended and I have wanted nothing more than to go back to eating healthily again, but decided to go with the plans made. Tonight I did an eating challenge at a local Texas BBQ restaurant and I will now firmly attest that never again will I make any food plans for after comp in a compromised state.
+
+We must not allow poor decisions to be made under deprived mental states of mind or any other state of deprivation.
+
 === 2026-08-26 | Hybrid standardised tests
 
 I recently signed up to do Hyrox open men’s singles in Sanya, China for fun. I was around 15 minutes late to the sign up, by which time the mixed doubles AND men’s pro singles had both sold out. Given this is a random city in China, I thought it was kinda wild to sell out fast.
