@@ -7,6 +7,12 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-08-28 | Cultural capital
+
+I was at an alumni event tonight for my alma mater Churchill College and honestly expected more people to be in Hong Kong. Around 30 people attended, and half were current students who were from HK and they all seemed to want to stay in the UK after uni. They would ask me why I moved or stayed in HK with genuine surprise, and then agree with all the positives of HK (safety, taxes, convenience, etc) and negatives of the UK (pretty much everything)!
+
+I guess it’s either a herd mentality and lack of individual thought (West > East?) or the fact that the UK continues to draw down its cultural capital to entice people to come over from all over the world, similar to how a lot of Western Europe continues to draw people in for tourism and for living. If the latter, it must be pretty close to running out. 
+
 === 2026-08-27 | Decisions under compromise
 
 It’s hard for me to assess personal decisions made under normal types of deprivation, as I do not put myself in those states. For example, sleep deprivation, if I miss a couple of hours a night of sleep (under 5 times a year), it’s likely I will make up the next day anyway; generally I cannot relate to people who say they make compromised decisions under deprived mental or physical states.
