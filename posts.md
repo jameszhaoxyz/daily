@@ -7,6 +7,14 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-08-29 | Short housing
+
+I remember asking one of my ex-bosses (one of the ones I admire the most) why he bought a property in what I thought was an expensive housing market at the time, and his answer stuck with me: “everyone is short one house when they are born”.
+
+I guess it’s a trader’s way of saying: “everyone needs to have a place to live, so by owning a house you’re net flat exposure to housing market/rental market/mortgage rates”.
+
+I am now of a similar age to he was, and also considering buying into a similarly expensive housing market. Timing wise I’m convinced we’ve just passed the bottom of the residential housing market in HK; and if not, I’m short one house anyway.
+
 === 2026-08-28 | Cultural capital
 
 I was at an alumni event tonight for my alma mater Churchill College and honestly expected more people to be in Hong Kong. Around 30 people attended, and half were current students who were from HK and they all seemed to want to stay in the UK after uni. They would ask me why I moved or stayed in HK with genuine surprise, and then agree with all the positives of HK (safety, taxes, convenience, etc) and negatives of the UK (pretty much everything)!
