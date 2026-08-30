@@ -7,6 +7,12 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-08-30 | Malls
+
+Most of my time in China is spent inside malls. The Western versions have nothing on Asian malls: sprawling metropolises of restaurants, food courts, shopping, massage parlours, supermarkets and everything you need for a full day out, heaving with people. Every time I go to Shenzhen (~once a month), my favourite mall has a new offering to check out. My travel hack in China when I go to a new city is just find the most popular mall on Dianping to go to; it generally has the best restaurants, bakeries and snacks under one roof, in the best part of town.
+
+As temperatures get hotter around the world, I’d expect Europe and the US to learn a thing or two and up their mall game. 
+
 === 2026-08-29 | Short housing
 
 I remember asking one of my ex-bosses (one of the ones I admire the most) why he bought a property in what I thought was an expensive housing market at the time, and his answer stuck with me: “everyone is short one house when they are born”.
