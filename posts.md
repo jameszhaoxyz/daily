@@ -7,6 +7,18 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-08-31 | Love of the game
+
+The rise of social media has popularised living performatively and showing off the best aspects of your life. Don’t get me wrong, I think this is probably the last opportunity to build a personal brand and successfully be an ‘influencer’, and I think it’s an exceptional way of marketing when done correctly. However having spent significant amounts of time around people who have become successful influencers from nothing, I think the line can blur between being yourself and doing it for the ‘gram.
+
+I enjoy perusing social media and growing an audience, but I do have to wonder “would you do x if you weren’t gonna share it to social media?” for things I am considering doing, but also when I see things other people are doing on the feed.
+
+X can be replaced with friendships, sports, competitions, holidays, meals…
+
+To truly live for yourself, the answer must be yes for every aspect of your life.
+
+Do it for the love of the game.
+
 === 2026-08-30 | Malls
 
 Most of my time in China is spent inside malls. The Western versions have nothing on Asian malls: sprawling metropolises of restaurants, food courts, shopping, massage parlours, supermarkets and everything you need for a full day out, heaving with people. Every time I go to Shenzhen (~once a month), my favourite mall has a new offering to check out. My travel hack in China when I go to a new city is just find the most popular mall on Dianping to go to; it generally has the best restaurants, bakeries and snacks under one roof, in the best part of town.
