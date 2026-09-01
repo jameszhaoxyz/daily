@@ -7,6 +7,16 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-09-01 | Easy does it
+
+You don’t want to overthink your trading; sometimes the simplest thesis is the best. Two years ago around Trump’s win in the election, my thesis for a new Intel $INTC long was ‘MAGA’.
+
+Today my thesis for a new Robinhood $HOOD long is ‘buy the shovel’.
+
+Every cycle has had a blockchain winner: Ethereum and ICOs, Solana and yield farming, Hyperliquid and DEXes, next up: Robinhood chain and tokenised assets (especially stocks)?
+
+Buckle up.
+
 === 2026-08-31 | Love of the game
 
 The rise of social media has popularised living performatively and showing off the best aspects of your life. Don’t get me wrong, I think this is probably the last opportunity to build a personal brand and successfully be an ‘influencer’, and I think it’s an exceptional way of marketing when done correctly. However having spent significant amounts of time around people who have become successful influencers from nothing, I think the line can blur between being yourself and doing it for the ‘gram.
