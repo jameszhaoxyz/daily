@@ -7,6 +7,22 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-09-02 | ROI
+
+There are many moments in life which are extremely memorable for being instrumental in shaping me as a person, and one of these was on a ‘weekend trip’ to Sydney in April 2018.
+
+It wasn’t as much the trip itself (although it was a great time with my friends) but rather the experience on the Virgin Australia flight back to Hong Kong. I bid the minimum (plus 1 increment) to upgrade to business class, and a few hours before my flight I was notified that I’d been upgraded.
+
+This was a daytime flight, so it made sense that the lie flat option was less popular than on a red eye. It was also my first experience in business class, and I had no idea why people would pay extra to get from A to B in the same metal tube.
+
+The flight was life-changing; I experienced a luxury product that I knew I somehow had to justify the cost for. In the following few years, the excuse for upgrading to business class was my back pain or need to get a good night’s sleep but now in my head it doesn’t require justification.
+
+On a long haul flight, it just makes sense to be able to relax properly, sleep, eat well and be pain free on the flight at some reasonable monetary cost. I would say the ROI is hard to justify, similar to how you’re never beating a buffet, but the experience of getting from A to B in a much more comfortable state is worth more to me than the increase in price from economy to business class.
+
+I did recently fly first class long haul, and the jump in cost from business to first is most definitely not worth it. It’s also not worth it for short haul flights, my back can handle sitting for a few hours. But for long haul flights, especially red eye, business class is pretty much non-negotiable for me now. 
+
+ROI on the cost maybe hard to justify in monetary terms, but ROI in happiness and comfort makes it worth it.
+
 === 2026-09-01 | Easy does it
 
 You don’t want to overthink your trading; sometimes the simplest thesis is the best. Two years ago around Trump’s win in the election, my thesis for a new Intel $INTC long was ‘MAGA’.
