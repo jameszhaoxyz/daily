@@ -7,6 +7,14 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-09-03 | Same same but different
+
+I’m definitely a man of routine, everyday has generally the same framework: same sleep and wake times, same morning routine, same caffeine intake, same meal times… you get the idea.
+
+Seemingly a juxtaposition is my love for travelling, but really my routine stays pretty true to form. I take my morning showers, I find my matcha and espressos, I don’t miss a workout, I sleep the same times, I walk my steps.
+
+I’m sure it’s good to occasionally stress the body and mind through the breaking of routine, and my way of doing it is figuring out my routine in a new city!
+
 === 2026-09-02 | ROI
 
 There are many moments in life which are extremely memorable for being instrumental in shaping me as a person, and one of these was on a ‘weekend trip’ to Sydney in April 2018.
