@@ -7,6 +7,12 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-09-04 | Alternative data
+
+I met someone today whose family business was producing uniforms in the States, predominantly military uniforms. My first question was “did revenues increase recently with the war” and to my surprise his answer was “I didn’t realize how leveraged our business was to war”.
+
+I wonder if any hedge funds purchase generic order information or revenue data from military uniform providers. It’s probably a good source of alternative data in indicating upcoming military activity and a good indicator for putting on multiple different trades…
+
 === 2026-09-03 | Same same but different
 
 I’m definitely a man of routine, everyday has generally the same framework: same sleep and wake times, same morning routine, same caffeine intake, same meal times… you get the idea.
