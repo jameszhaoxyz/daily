@@ -7,6 +7,24 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-09-06 | God bless America
+
+Although I’m not the biggest fan of global taxation, unclear service charge rules, lack of public transport, the quality of food and generally a laundry list of other gripes, I do think America is truly the only true land of opportunity in the world.
+
+One way this shows up is the variety of people in my social circles in the US vs the rest of the world. Generally ex-US most of my social circle can be easily bucketed into a few categories: banking, crypto and some lawyers. In the US it is much more wide ranging, including various sectors of tech, hardware, PE, VC and a ton of entrepreneurship. 
+
+A lot of these are only feasible in the States… as long as the US dollar remains the reserve currency of the world. Probably a good hedge to short DXY if you are on the hunt for a Green Card.
+
+=== 2026-09-05 | My rule for weddings
+
+I wrapped up my last wedding of 2026, which this year took me to Tokyo, Vienna (twice), Mougins in the Côte d’Azur and the British countryside.
+
+While I have many likely controversial thoughts on weddings, I do live by one simple rule: if I’m invited to your wedding, I will do my utmost best to attend.
+
+This simple rule has led me to spend 24 hours in Portland, Oregon in between London and Hong Kong, as well as 24 hours in Boston between Cape Town and Las Vegas, amongst many other creative travel itineraries.
+
+The reason is simple: if I’m important enough to receive an invite on what is probably going to be one of the most memorable days of your life, then that’s the least I can do.
+
 === 2026-09-04 | Alternative data
 
 I met someone today whose family business was producing uniforms in the States, predominantly military uniforms. My first question was “did revenues increase recently with the war” and to my surprise his answer was “I didn’t realize how leveraged our business was to war”.
