@@ -7,6 +7,14 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-09-07 | Supermarket tourism
+
+One of my favourite things to do in a new city is visit supermarkets; you can tell a surprising amount about a place from them.
+
+Munich’s supermarkets all seem to only open 6 days a week, and close much earlier than I’m used to (most around 8pm). Are German people much lazier or just more efficient?
+
+Also vegan food is front and center, they have many recycling machines which give you cash for returning plastic bottles and their self service machines only have one language: German. Environmentally friendly but not tourist friendly.
+
 === 2026-09-06 | God bless America
 
 Although I’m not the biggest fan of global taxation, unclear service charge rules, lack of public transport, the quality of food and generally a laundry list of other gripes, I do think America is truly the only true land of opportunity in the world.
