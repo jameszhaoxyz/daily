@@ -7,6 +7,14 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-09-09 | PISA rankings
+
+There’s a global test taken by 15 year olds in Science, Reading and Maths called PISA; surprise surprise, China is ahead by quite some margin. 
+
+What else isn’t surprising is that global standards have been falling consistently, guess we can chalk it down to AI. 
+
+The issue with AI isn’t that it exists, I think it gives you an easy way out of solving any problem. Grit and determination is now overwritten by a simple question to Claude, people don’t grind through problems anymore. It’s the same with calculators but 1000x worse: mental math proficiency went down a lot with calculators, but AI just makes proficiency worse in basically everything. Kids need to learn how to sit down and grind through hard problems, that bingo moment cannot be retaught.
+
 === 2026-09-08 | Lifestyle inflation
 
 In many ways, NYC and HK are remarkably similar: great food, large expat community, metropolitan, high salaried and multicultural. What NYC is to the Western twenty-somethings is probably what HK is to the Chinese/Eastern twenty-somethings.
