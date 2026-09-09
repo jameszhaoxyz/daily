@@ -7,6 +7,14 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-09-08 | Lifestyle inflation
+
+In many ways, NYC and HK are remarkably similar: great food, large expat community, metropolitan, high salaried and multicultural. What NYC is to the Western twenty-somethings is probably what HK is to the Chinese/Eastern twenty-somethings.
+
+There are many things that are still vastly different: taxes, safety, public transport… and opinion on what is normal for a living space. Accommodation itself isn’t too different in price: for the same square footage, you’re looking at similar prices. But what is different is people’s tolerance for cost of living space: in NYC a 500 square foot apartment would barely be a studio, but in HK that could be a spacious two or even three bed apartment. 
+
+Expectations for size of living space is vastly mismatched, which leads to people spending a much higher percentage of their income on accommodation.
+
 === 2026-09-07 | Supermarket tourism
 
 One of my favourite things to do in a new city is visit supermarkets; you can tell a surprising amount about a place from them.
