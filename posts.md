@@ -7,6 +7,14 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-09-10 | Trump dividend hedging
+
+So Trump a announced $5k cheque to every citizen if the Republicans retain the House and Senate in the midterms… a few thoughts:
+
+Firstly, is this not bribery? Must be illegal surely?
+
+Secondly, if you believe him (that’s a huge if) and you wanted to vote Democrat, you could also hedge the dividend by betting against Trump winning both the House and Senate on Polymarket or Kalshi. Guess this is kind of like merger arbitrage too: how much you believe this dividend will be paid needs to be taken into account when you do this ‘hedge’ (punt)…
+
 === 2026-09-09 | PISA rankings
 
 There’s a global test taken by 15 year olds in Science, Reading and Maths called PISA; surprise surprise, China is ahead by quite some margin. 
