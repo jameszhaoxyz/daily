@@ -7,9 +7,19 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-09-11 | A simple test
+
+This morning I walked into Jim and was immediately put into a bad mood when I noticed, mid-conversation, that someone had left 70kg on the bar on the bench. Not only this, but plates were everywhere, not in their obvious location. 
+
+I’ve been away for several months and when I came back, everything was generally in exactly the same place as I left. The main reason is likely because it’s pretty intuitive to a powerlifter where everything goes: 25kg first, then 20kg, then 15kg etc, same number on plate racks on each side.
+
+In the time between yesterday and today, someone had decided to throw a wrench into the natural qi of Jim.
+
+Luckily I am in a position to confront the culprit, and I will chalk it down to the fact that it’s their first time in a powerlifting gym and not a commercial gym. But honestly, what kind of person leaves plates out in a gym? It’s such a non time-consuming and natural thing to do, only certain types of people in my opinion. One-offs are fine (I assume everyone has a bad day), hence the one strike policy I will implement going forwards.
+
 === 2026-09-10 | Trump dividend hedging
 
-So Trump a announced $5k cheque to every citizen if the Republicans retain the House and Senate in the midterms… a few thoughts:
+So Trump announced $5k cheque to every citizen if the Republicans retain the House and Senate in the midterms… a few thoughts:
 
 Firstly, is this not bribery? Must be illegal surely?
 
