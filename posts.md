@@ -7,6 +7,16 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-09-12 | Grass is always greener
+
+Today I had lunch where two of my friends were hanging out for the first time. One has been a professional high stakes poker player since leaving uni, mostly in Macau and other private games around the world, the other is an entrepreneur who has been in the F&B industry in HK most of his life and recently opened a bakery café that has been doing very well, especially leveraging virality through social media.
+
+Both expressed how cool it was to be in the other person’s shoes, but having been there in the darkest days for both, I know what looks rosy on the outside masks the hard work that has gone into both.
+
+Professional poker is often glamorised, but in the modern game it requires hours and hours of study, simulation, analysing mistakes and practice, on top of stomaching large swings and drawdowns. Entrepreneurship, especially involving social media and influencing, has good looking results when the going is good, but often can be hard to get going, requires years of getting experience from all levels and also grinding on mundane tasks like making different versions of content.
+
+Often the grass is not greener once you realise results require hard work.
+
 === 2026-09-11 | A simple test
 
 This morning I walked into Jim and was immediately put into a bad mood when I noticed, mid-conversation, that someone had left 70kg on the bar on the bench. Not only this, but plates were everywhere, not in their obvious location. 
