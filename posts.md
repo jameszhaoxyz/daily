@@ -7,6 +7,14 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-09-13 | Finsta
+
+I guess I’m at the follower count where when people ask for my insta they then ask me if I have a private finsta; to which the answer is always the same: no.
+
+I have no intention of oversharing on social media, I am, popular to contrary belief, a private person. Anything I am willing to share on social media I am willing to share to the general public; anything private I wish to share about my life will be shared in person with the intended recipient. 
+
+Receipts are kept for everything and can be manipulated and used against you, hence if you are willing to share personal information on the interwebs, I personally think it is best practice to share it with the world. 
+
 === 2026-09-12 | Grass is always greener
 
 Today I had lunch where two of my friends were hanging out for the first time. One has been a professional high stakes poker player since leaving uni, mostly in Macau and other private games around the world, the other is an entrepreneur who has been in the F&B industry in HK most of his life and recently opened a bakery café that has been doing very well, especially leveraging virality through social media.
