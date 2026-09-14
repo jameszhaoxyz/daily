@@ -7,6 +7,14 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-09-14 | Hybrid poopstar
+
+Over the weekend the biggest news in the fitness space was that the winner of Women’s Pro singles in Hyrox Beijing defecated herself mid race and completed the race with faeces visibly covering her lower half of the body.
+
+Given the race officials didn’t stop her (pooping yourself is not on the rulebook), I can understand why she carried on. She’s an elite athlete, she’s dedicated her life to training and competing to be the best, of course she would continue if allowed!
+
+It’s not really her fault, instead it’s definitely an issue with HQ instead. They were in the news last week having sold a stake to PE given the surge in popularity, but I’m going to call the top in Hyrox now. CrossFit had its reckoning after their response to the death during the Finals; given their response to this defecation issue I think it’s only downhill from here.
+
 === 2026-09-13 | Finsta
 
 I guess I’m at the follower count where when people ask for my insta they then ask me if I have a private finsta; to which the answer is always the same: no.
