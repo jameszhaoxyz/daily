@@ -7,6 +7,14 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-09-15 | Aircon
+
+I really dislike aircon. Why do humans like having cold air blowing on your head? Or feeling cold? I’d take feeling hot, sweating and sticky over feeling cold and clammy any day of the week! 
+
+I now understand the science behind being in a cold room when sleeping (took a lot of convincing), but otherwise when I’m awake I would much rather be hot. I really enjoyed the heatwave in Europe and the lack of aircon, it’s one of my cons for Asia.
+
+But I don’t understand, why do so many people prefer feeling cold over hot?
+
 === 2026-09-14 | Hybrid poopstar
 
 Over the weekend the biggest news in the fitness space was that the winner of Women’s Pro singles in Hyrox Beijing defecated herself mid race and completed the race with faeces visibly covering her lower half of the body.
