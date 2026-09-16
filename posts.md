@@ -7,6 +7,14 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-09-16 | Autoregulation of my routine
+
+I pride myself on being disciplined; to me this includes following my daily routine day to day, following a strict and clean diet whilst sleeping and waking at the same time everyday. 
+
+One of the main benefits of this is feeling good, both mentally and physically, especially with the physical toll powerlifting training takes on my body. Another benefit is that I’m very in tune with my body, so when I tweak or change anything in my routine, I am able to notice the benefits or changes immediately.
+
+Recently I have been doing more exercise outside of powerlifting, and this morning I overslept past my normal wake time. This isn’t an issue, but it seems that given my uptick in exercise I need to dial the intensity back or increase my sleep, I’ll continue playing around with that over the next few days!
+
 === 2026-09-15 | Aircon
 
 I really dislike aircon. Why do humans like having cold air blowing on your head? Or feeling cold? I’d take feeling hot, sweating and sticky over feeling cold and clammy any day of the week! 
