@@ -7,6 +7,16 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-09-17 | Convenience
+
+An alternative definition of modernisation is the increase in ability for humans to trade convenience for money.
+
+But are we over optimising for convenience?
+
+I feel like as I’ve gotten more into longevity/health/caring about my physical and mental wellbeing, the tradeoffs I make are basically inconvenience or doing the harder thing for health reasons. Walking everywhere I go, trying to cook as much as possible, working out regularly, starting to run, not drinking… maybe we, as a race, swung too much in the opposite direction.
+
+The one true hurdle is going to be turning off screens after dinner. I’m not even sure that’s ever going to be possible, but I’m going to work out a way.
+
 === 2026-09-16 | Autoregulation of my routine
 
 I pride myself on being disciplined; to me this includes following my daily routine day to day, following a strict and clean diet whilst sleeping and waking at the same time everyday. 
