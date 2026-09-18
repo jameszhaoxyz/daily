@@ -7,6 +7,14 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-09-18 | Streetwear
+
+I’ve been on a generational run of buying streetwear recently, mostly stuff that I would’ve liked to own in my late teens and 20s. Sneaker resell prices are down in the dumps, no-one talks about brands like Supreme anymore, but I think we’re close to the bottom in sentiment. Most of the items I’ll hold for the future, the issue is starting to be space!
+
+My thesis is that as AI proliferates, unique items that can’t be reproduced like limited run sneakers, high value streetwear and cultural items will probably outperform, especially as the generation that grew up with them earn more money.
+
+Let’s see, I’m also fairly sure the 30th celebration collection is the top in Pokémon cards; what a run it’s been on though, everyone’s talking about them. It’s taken a lot of restraint to not get into cards recently… I nearly even started buying sports cards!
+
 === 2026-09-17 | Convenience
 
 An alternative definition of modernisation is the increase in ability for humans to trade convenience for money.
