@@ -7,6 +7,12 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-09-19 | Weekend jetlag
+
+I would say I’m decent at getting over jetlag; it usually comes down to discipline. Are you able to stay awake until you’re actually supposed to sleep to reset to the right time zone as quickly as possible? I guess it also helps that my routine is very similar everywhere I go, so even if I land with 12 hours time difference, it’s still cold shower in the morning, sun, chamomile tea before bed, etc.
+
+Obviously jetlag isn’t ideal and probably wrecks my body the most from my extra-curricular activities, but travel is one of the joys of my life. One thing that I’ve consciously minimized is weekend jetlag; I used to ‘catch up’ on sleep on the weekend, waking up ~3-4 hours later than during the week, but cutting that out and having a consistent sleep schedule is probably the single best thing I’ve done to improve my mental and cognitive ability during the day.
+
 === 2026-09-18 | Streetwear
 
 I’ve been on a generational run of buying streetwear recently, mostly stuff that I would’ve liked to own in my late teens and 20s. Sneaker resell prices are down in the dumps, no-one talks about brands like Supreme anymore, but I think we’re close to the bottom in sentiment. Most of the items I’ll hold for the future, the issue is starting to be space!
