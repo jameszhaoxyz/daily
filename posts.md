@@ -7,6 +7,18 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-09-20 | Content creation
+
+As much as I hate myself for consuming as much content as I do, I give myself grace in the fact that I am learning (somewhat) in the process.
+
+I do think we’re the last generation who will be able to organically grow an audience from scratch using social media, and this audience can be very useful in many different manners: monetary or business reasons, networking in the future, or general social proof.
+
+I also acknowledge it’s not for everyone: definitely takes a certain type of personality to make content and put yourself out there. If you have a niche and you enjoy it, then why not leverage yourself and create a personal brand? Maybe you’re like me and just enjoy making content for the sake of playing a game?
+
+It also gives me another angle for which to analyze companies, both public and private, for investment reasons. How organic are the public interactions with the company’s content: this is especially important when looking at the F&B industry… organic content is extremely difficult to duplicate.
+
+Also, true virality is mental.
+
 === 2026-09-19 | Weekend jetlag
 
 I would say I’m decent at getting over jetlag; it usually comes down to discipline. Are you able to stay awake until you’re actually supposed to sleep to reset to the right time zone as quickly as possible? I guess it also helps that my routine is very similar everywhere I go, so even if I land with 12 hours time difference, it’s still cold shower in the morning, sun, chamomile tea before bed, etc.
