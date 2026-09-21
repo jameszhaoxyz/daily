@@ -7,6 +7,21 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-09-21 | Singapore positives
+
+Generally I find it extremely easy to find the negatives of a city compared to Hong Kong, so I decided to think about the positives of living in Singapore vs Hong Kong.
+
+They’re extremely similar cities: taxes, decent commercial gym scene, even food (there’s Heybo in both!).
+
+Weather is often a negative for people; in contrary, I love the heat and humidity year round, I wouldn’t mind not having seasons and being hot all year.
+
+Affordability seems better than Hong Kong- accommodation is cheaper, also there’s an emphasis on hawker centres and cheap food options everywhere… there’s even hawker centres within office buildings. 
+
+The airport was extremely efficient, might be the fastest immigration for non citizens/residents in the world. One scan of passport and done! You could land and get to city centre within 40 mins by taxi.
+
+I’ll continue to scope out the positives of Singapore.
+
+
 === 2026-09-20 | Content creation
 
 As much as I hate myself for consuming as much content as I do, I give myself grace in the fact that I am learning (somewhat) in the process.
