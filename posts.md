@@ -7,6 +7,12 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-09-22 | Warming up
+
+Warming up is one of those things that in retrospect you need to do, but in the heat of things will be the first thing you skip if you are short on time.
+
+Recent injuries to my left infraspinatus and right hip flexor have reignited my desire to warm up properly before each training session, unfortunately hindsight is 20/20 and I’ll be living with my decisions to skip warmups recently when under time constraints for a few weeks at least.
+
 === 2026-09-21 | Singapore positives
 
 Generally I find it extremely easy to find the negatives of a city compared to Hong Kong, so I decided to think about the positives of living in Singapore vs Hong Kong.
