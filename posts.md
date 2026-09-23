@@ -7,6 +7,12 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-09-23 | Greenery
+
+A problem with concrete jungles is lack of greenery, but it seems that in Singapore there is a policy to put plants in as many places as possible. Pretty much every building has plants inside and outside, my hotel is covered in greenery, many office buildings are, even the MRT stations have walls with plant pots.
+
+I wonder how much positive health effect this has on people in Singapore; guessing it doesn’t counteract the horrific smog from Indonesia that is enveloping the city state right now.
+
 === 2026-09-22 | Warming up
 
 Warming up is one of those things that in retrospect you need to do, but in the heat of things will be the first thing you skip if you are short on time.
