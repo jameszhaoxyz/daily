@@ -7,6 +7,12 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-09-24 | Short pubs long gyms
+
+When I first started in finance, anytime I went out with people from industry (with brokers) it always involved alcohol, typically after a boozy dinner or just purely a night out. After I fixed my back in the tail end of 2019 I stopped drinking to focus on powerlifting, which meant any time I was invited to go out I would swerve and suggest a healthy dinner or coffee instead. That seemed radical at the time.
+
+I’m happy to report that in 2026 this would no longer be considered radical. It now seems that the tradfi industry considers conducting client meetings at Hyrox classes and ice bath clubs the norm. Maybe crypto industry will catch up soon on that front? 
+
 === 2026-09-23 | Greenery
 
 A problem with concrete jungles is lack of greenery, but it seems that in Singapore there is a policy to put plants in as many places as possible. Pretty much every building has plants inside and outside, my hotel is covered in greenery, many office buildings are, even the MRT stations have walls with plant pots.
