@@ -7,6 +7,12 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-09-25 | Leap of faith
+
+Looking back at the start of my career, it was quite aggressive back then out of uni to renege on my M&A offer having spent two summers doing M&A after multiple years chasing the IBD life only to start at a small prop trading firm to trade options, something I knew barely anything about… and anything I did know was not really important in the grand scheme of trading volatility.
+
+It may or may not have worked out, that remains to be seen, but that likely will be the biggest leap of faith I will ever take in my life.
+
 === 2026-09-24 | Short pubs long gyms
 
 When I first started in finance, anytime I went out with people from industry (with brokers) it always involved alcohol, typically after a boozy dinner or just purely a night out. After I fixed my back in the tail end of 2019 I stopped drinking to focus on powerlifting, which meant any time I was invited to go out I would swerve and suggest a healthy dinner or coffee instead. That seemed radical at the time.
