@@ -7,6 +7,12 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-09-26 | Directionless
+
+When I was growing up, I thought I was decent at directions, so it was always weird to me when I went back to cities I’d visited during my 20s and been pretty lost. I’d even be a little confused in my own Hong Kong.
+
+Over the last few years I now go back to a city and do not have to use a map to get around. The change was walking. Before I used to taxi everywhere, now from using my two feet to get everywhere I basically learn a city in the time I spend there, it’s another positive on top of getting 20k steps in a day!
+
 === 2026-09-25 | Leap of faith
 
 Looking back at the start of my career, it was quite aggressive back then out of uni to renege on my M&A offer having spent two summers doing M&A after multiple years chasing the IBD life only to start at a small prop trading firm to trade options, something I knew barely anything about… and anything I did know was not really important in the grand scheme of trading volatility.
