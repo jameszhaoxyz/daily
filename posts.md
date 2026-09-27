@@ -7,6 +7,12 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-09-27 | Rainy day
+
+Rain is my least favourite weather condition, because getting my daily steps in is a lot more difficult. It’s unpleasant getting wet and extra cumbersome to stay completely dry. The compromise to this is committing to getting absolutely soaked and going for a run before staying indoors the rest of the day.
+
+On another note, today was absolutely piling it down with rain in Singapore but we logged our first 100km month running in the month of September. Baby steps.
+
 === 2026-09-26 | Directionless
 
 When I was growing up, I thought I was decent at directions, so it was always weird to me when I went back to cities I’d visited during my 20s and been pretty lost. I’d even be a little confused in my own Hong Kong.
