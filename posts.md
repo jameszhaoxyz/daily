@@ -7,6 +7,12 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-09-28 | Blood sweat and tears
+
+I visited a new gym that opened recently in Singapore, Elevate Barbell Club. Having visited and trained powerlifting in 200+ gyms around the world, I have a general idea of what works and what doesn’t. However, having opened my own gym this year, I have a new found appreciation for the small details that make a difference. 
+
+What struck me at Elevate was the blood sweat and tears that must’ve gone into building the powerlifting room. The rubber flooring was cut by hand to fit the platforms, so that they were level (rubber flooring is impossible to cut), the deadlift platforms were exquisitely built. Sometimes it’s not about the amount of money used to build something, it’s experience. Money can buy a lot of things for gyms, but it can’t buy class.
+
 === 2026-09-27 | Rainy day
 
 Rain is my least favourite weather condition, because getting my daily steps in is a lot more difficult. It’s unpleasant getting wet and extra cumbersome to stay completely dry. The compromise to this is committing to getting absolutely soaked and going for a run before staying indoors the rest of the day.
