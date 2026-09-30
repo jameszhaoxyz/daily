@@ -7,6 +7,22 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-09-30 | 24/7 trading
+
+Tradfi is being shaped by crypto more and more, whether you like it or not. Tokenised stocks came on-chain, which allowed 24/7 trading on a pseudo-stock, but Robinhood announced 24/7 trading of actual stock, plus perps that pay funding every 15 mins to people in the US. Coinbase just registered their own clearer. Crypto native firms are taking the fight to tradfi!
+
+More firms should trade crypto in my opinion, if not for the relatively easy pickings, at least to learn how to trade truly 24/7 assets. It’ll break the systems initially (you’ll be surprised at these legacy companies) but worth it to break them doing crypto than stocks when true 24/7 trading comes to the US exchanges.
+
+=== 2026-09-29 | Never meet your heroes
+
+Growing up I didn’t understand why some people didn’t want to be famous, I felt that being famous was synonymous with being rich.
+
+I’m not saying I’m famous now, not even close, but I have been recognised almost daily from a very niche corner of the Internet in Singapore, and it comes with some realisations…
+
+Many people would hate getting recognised and stopped by a stranger to get asked questions about said niche corner; on the contrary, I actually quite like meeting new people and learning new things, as long as it doesn’t take up too much time.
+
+Previously I equated being infamous with being famous (you can leverage both monetarily) but now they’re firmly opposite in my head, you want to be known for the right thing.
+
 === 2026-09-28 | Blood sweat and tears
 
 I visited a new gym that opened recently in Singapore, Elevate Barbell Club. Having visited and trained powerlifting in 200+ gyms around the world, I have a general idea of what works and what doesn’t. However, having opened my own gym this year, I have a new found appreciation for the small details that make a difference. 
