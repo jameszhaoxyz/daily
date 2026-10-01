@@ -7,6 +7,14 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-10-01 | 77
+
+Happy 77th birthday to the People’s Republic of China!
+
+Growing up in the Western world, the PRC is often shown in a negative light; hence, when I was younger, I often overlooked China as a force and even as a tourist destination. Maturing has taught me to look for both sides of every tale, and now upon hearing every Western story on Chinese privacy or Taiwan or another flashpoint I try to think of China’s angle too.
+
+One particularly striking moment was hearing of the funny interactions between Americans and Chinese on Douyin, Chinese TikTok, last year during the TikTok ban scare. Both sides interacting and loving it, expressing how they thought it’d be much different talking to the other side. That’s propaganda for ya!
+
 === 2026-09-30 | 24/7 trading
 
 Tradfi is being shaped by crypto more and more, whether you like it or not. Tokenised stocks came on-chain, which allowed 24/7 trading on a pseudo-stock, but Robinhood announced 24/7 trading of actual stock, plus perps that pay funding every 15 mins to people in the US. Coinbase just registered their own clearer. Crypto native firms are taking the fight to tradfi!
