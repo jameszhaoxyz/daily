@@ -7,6 +7,16 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-10-02 | Pattern recognition
+
+Technically much of life is just pattern recognition. 
+
+You learn to do or say certain things in accordance with local customs in certain scenarios as you grow up and progress through the game called life.
+
+Trading is also just pattern recognition. I suspect I’ve gotten better at trading as I have experienced more scenarios that look weirdly similar to old scenarios and recognised what was the correct thing to do. Trading is also adaptation; you might need to tweak what was optimal before in today’s scenario based on changing information. But mostly, pattern recognition. 
+
+It does seem to me that we are reaching relatively unprecedented times, with high yields, less trust in the dollar and a booming stock market. I suspect studying a broader history of finance rather than newer theories of finance will be more useful in the coming years.
+
 === 2026-10-01 | 77
 
 Happy 77th birthday to the People’s Republic of China!
