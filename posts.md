@@ -7,6 +7,14 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-10-03 | Comfortable being uncomfortable
+
+Much of the time I spend running is negotiating with myself when to stop, as with many uncomfortable things, the hardest part is starting and the easiest part is stopping. The more time I spend doing the uncomfortable activity, the easier it is to start it the next time.
+
+I recently tried to do some higher heart rate (zone 4-5) workouts in Singapore	when my friend invited me to a Hyrox class. I thought I was working hard enough in the moment, but after the class I realised I was nowhere close. I basically sandbagged the whole workout. 
+
+If I want to improve my Whoop age, I need to get seriously uncomfortable again.
+
 === 2026-10-02 | Pattern recognition
 
 Technically much of life is just pattern recognition. 
