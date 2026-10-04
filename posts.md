@@ -7,6 +7,12 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-10-04 | Inequality
+
+One thing I noticed when I lived in the US was the vast inequality, I feel like it’s much more noticeable there than somewhere like HK where the Gini coefficient is supposedly higher (meaning its more unequal). It felt very odd that the average person was generally paycheck to paycheck, discount stores everywhere, a lot of homeless whilst the S&P was ripping higher, stock markets up only and luxury stores popping up all the time.
+
+I believe this is only going to get worse in the future, especially if the US never allow a true recession to reset the frothiness of the market, which means one thesis for trade ideas is inequality. Luxury goods, private member’s clubs, high end travel, discount stores, bargain shopping. Pick your poison.
+
 === 2026-10-03 | Comfortable being uncomfortable
 
 Much of the time I spend running is negotiating with myself when to stop, as with many uncomfortable things, the hardest part is starting and the easiest part is stopping. The more time I spend doing the uncomfortable activity, the easier it is to start it the next time.
