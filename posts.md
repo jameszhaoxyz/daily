@@ -7,6 +7,12 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-10-05 | Laziness tax
+
+As a consumer, there’s many areas in life where we’re paying a laziness tax. You could spend your time optimising for where to park your idle cash for the most interest, or optimise your credit card spending, or find the best place to trade your stocks, but you’d just rather spend your time doing more fun things.
+
+Might be time to short companies whose business model relies on laziness, such as legacy banks, brokerages, credit cards, recurring revenue subscriptions. The era of personal AI agents should usher in an era of personal optimisation, especially on easy to set targets like ‘optimise my useless subscriptions’ or ‘save me as much money as possible’.
+
 === 2026-10-04 | Inequality
 
 One thing I noticed when I lived in the US was the vast inequality, I feel like it’s much more noticeable there than somewhere like HK where the Gini coefficient is supposedly higher (meaning its more unequal). It felt very odd that the average person was generally paycheck to paycheck, discount stores everywhere, a lot of homeless whilst the S&P was ripping higher, stock markets up only and luxury stores popping up all the time.
