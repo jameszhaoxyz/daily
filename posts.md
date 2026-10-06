@@ -7,6 +7,16 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-10-06 | The number 
+
+This morning I got asked whether I had fudge you money. Firstly, I’m flattered. Secondly, I don’t believe in the concept of fudge you money.
+
+The flaw lies on the premise that you have a number where you are content enough to give it all up, kick rocks and drink margaritas on the beach all day. I can’t imagine anything worse.
+
+The novelty of semi-retirement during my non compete wore off reasonably quickly, I even got tired of travelling the world. I don’t think I can ever stop doing the things I enjoy, namely: trading, building something bigger than me, beating the markets, powerlifting and staying healthy.
+
+So, for me, the number is close to zero. I am doing all the things I enjoy currently, and see no hurdles in stopping in the near and distant future.
+
 === 2026-10-05 | Laziness tax
 
 As a consumer, there’s many areas in life where we’re paying a laziness tax. You could spend your time optimising for where to park your idle cash for the most interest, or optimise your credit card spending, or find the best place to trade your stocks, but you’d just rather spend your time doing more fun things.
