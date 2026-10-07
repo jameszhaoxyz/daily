@@ -7,6 +7,12 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-10-07 | Auto-regulation 
+
+I have some weird personal rules for my workouts. I will not miss a powerlifting workout, come rain or shine, no matter how bad I’m feeling or how little sleep I have had. I’ve even worked out when I’ve had severe food poisoning in the morning, suspected myself to have Covid or straight off a redeye with no sleep.
+
+However, I have auto-regulated my running since the middle of this year, as I felt particularly ill one day whilst jet-lagged and decided to carry on with my run. I ended up not running for nearly a month as I felt completely wiped out. Since then I have learnt to not push my body when it comes to doing cardio. Powerlifting is still the priority!
+
 === 2026-10-06 | The number 
 
 This morning I got asked whether I had fudge you money. Firstly, I’m flattered. Secondly, I don’t believe in the concept of fudge you money.
