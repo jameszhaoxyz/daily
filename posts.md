@@ -7,6 +7,14 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-10-08 | One cannot simply… buy health 
+
+CZ of Binance yesterday posted a topless selfie on X. He’s a multibillionaire, one of the richest in the world, he’s never flaunted or shown his wealth in public, yet he’s on social media showing off on the one thing money can’t buy: a healthy body!
+
+I don’t think this is a one-off; as we trend towards an abundance of intelligence and the manufacturing of goods gets commoditised, one of the only ways to show wealth of mind will be your own body, that’s something money cannot buy. Sure, you can take peptides, drugs etc, but a well crafted body still requires years of discipline across many aspects like diet, fitness and sleep.
+
+One cannot just simply buy a healthy body.
+
 === 2026-10-07 | Auto-regulation 
 
 I have some weird personal rules for my workouts. I will not miss a powerlifting workout, come rain or shine, no matter how bad I’m feeling or how little sleep I have had. I’ve even worked out when I’ve had severe food poisoning in the morning, suspected myself to have Covid or straight off a redeye with no sleep.
