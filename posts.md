@@ -7,6 +7,22 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-10-10 | Confidence
+
+How my powerlifting training session goes is 50% decided before I even set foot in the gym. Confidence in how the weights will move sets the tone, and this is especially prescient for squats. 
+
+It also has a relatively short half life, a string of two weeks of good training can easily swing the confidence pendulum the other way.
+
+However, given I’m fairly honest with myself, I don’t usually purposely go in with false confidence- I can be optimistic about things turning around (one day I will break my squat plateau) but I won’t be blindly confident to have a good training session. Maybe I should? 
+
+=== 2026-10-09 | Business of Inefficiency 
+
+It’s a bit odd how an entire industry is predicated on being two hours early to the airport. The experience is optimised for people to mill around and shop/eat before they get on a plane to (presumably) shop/eat more in their final destination.
+
+The system is incredibly inefficient, security and passport control take less than 5 mins in some airports but over an hour in others, so you never know in a new country and tend not to risk it. Boarding times vary, even for planes bound for the same destination, and even if there are delays they are typically not communicated well.
+
+Domestic US travel has semi optimised for this with TSA precheck lines/CLEAR meaning you can aim to get to airport just before your boarding time, but otherwise it’s best not to risk it!
+
 === 2026-10-08 | One cannot simply… buy health 
 
 CZ of Binance yesterday posted a topless selfie on X. He’s a multibillionaire, one of the richest in the world, he’s never flaunted or shown his wealth in public, yet he’s on social media showing off on the one thing money can’t buy: a healthy body!
