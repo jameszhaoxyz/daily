@@ -7,6 +7,12 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-10-11 | New requirement
+
+These days if I’m travelling somewhere I will need to find a running route; on top of being an interesting method of urban exploration I find it a good way to clear my head, get a sweat in and move, especially on a non training day.
+
+Traditionally major cities were built around large bodies of water for transport, shipping and sustenance; these days I find that large bodies are strong signals for a decent uninterrupted running route- both Osaka and Vienna have had very good routes nestled amongst a booming city!
+
 === 2026-10-10 | Confidence
 
 How my powerlifting training session goes is 50% decided before I even set foot in the gym. Confidence in how the weights will move sets the tone, and this is especially prescient for squats. 
