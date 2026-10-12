@@ -7,6 +7,12 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-10-12 | Lists of absolutes
+
+I frequently use absolute lists to guide me on choosing locations to eat, despite understanding the drawbacks. A lot of the lists like Michelin, 50Best, 101 Best are obviously grifting; it’s more about knowing people in the industry and promoting your food. But on the flip side, it’s a good starting guide, especially on finding decent places to eat in a new city.
+
+Today I had supposedly one of the best burgers in the world, at Kitan Hibiki in Osaka. Honestly, burgers are lost on me- I don’t think it was anything special, although it tasted decent, I’m surprised that it’s in an absolute list. But there was a very long line, so skipping that by booking in advance felt good at least.
+
 === 2026-10-11 | New requirement
 
 These days if I’m travelling somewhere I will need to find a running route; on top of being an interesting method of urban exploration I find it a good way to clear my head, get a sweat in and move, especially on a non training day.
