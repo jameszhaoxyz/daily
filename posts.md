@@ -7,6 +7,14 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-10-13 | Optimal holiday length
+
+Finding the perfect length of time to spend on vacation has many variables, such as destination, time of the year, length of time until my next competition, equipment standard at the gym I’ll train at… the list is endless and always changing.
+
+Until recently, Osaka was generally a short weekend destination. In and out for a weekend, 3 hour flight from Hong Kong, concentrated area for tourist activities, no street food or local delicacies I’m a particular fan of, decent 24 hour gym with calibrated plates and combo racks but a long commute between the airport and the main city.
+
+This time we went for 5 days, longer than what I previously thought optimal. However we stayed in a different location to usual; Umeda vs Shinsaibashi, which made a vast difference. It was close enough to the main tourist area to go back and forth during the day, but far enough that it felt like a different area with the more high end shopping experience. We also discovered a decent running route straight from the hotel entrance as well as reliable and frequent transportation to Kansai International Airport, both of which would help me to actively choosing Osaka for a repeat holiday destination in the future.
+
 === 2026-10-12 | Lists of absolutes
 
 I frequently use absolute lists to guide me on choosing locations to eat, despite understanding the drawbacks. A lot of the lists like Michelin, 50Best, 101 Best are obviously grifting; it’s more about knowing people in the industry and promoting your food. But on the flip side, it’s a good starting guide, especially on finding decent places to eat in a new city.
