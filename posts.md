@@ -7,6 +7,12 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-10-14 | Permanent state of rush
+
+I really enjoy rushing, minimising stationary time i.e. the time waiting between activities, meetings and engagements by squeezing things as close together as possible, maximising what I can get done in a day. I think it’s also the main driver of me going from being extroverted (someone who liked to hang out with other people) to turning more of an introverted extrovert (I don’t mind hanging out with people, but I just don’t like wasting my time).
+
+The pursuit of maximal efficiency in my life has seemingly altered my capacity for social engagements and in turn my personality.
+
 === 2026-10-13 | Optimal holiday length
 
 Finding the perfect length of time to spend on vacation has many variables, such as destination, time of the year, length of time until my next competition, equipment standard at the gym I’ll train at… the list is endless and always changing.
