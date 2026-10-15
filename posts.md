@@ -7,6 +7,12 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-10-15 | Does it really work
+
+I sauna everyday, not because of the supposed health benefits, but because in general I like being hot. It’s also why I prefer to train and exist without aircon, no matter how hot it is, and why I loved summer in Europe this year. I’m not entirely convinced by the health benefits of sauna, and a lot of the other ‘recovery’ tools like cold plunge and HBOT, as my sleep and recovery (admittedly marked by Whoop/Oura/Eight sleep which all carry some degree of error) doesn’t seem to see a difference and I also don’t feel much different the next day.
+
+The one thing I am convinced does work is the Eight sleep mattress, feel markedly different and the data backs it up. Maybe it’s a placebo effect. Regardless, everyone should invest in a good mattress, whether it changes the temperature automatically or not. I can’t wait to get the one that elevates your head when you’re snoring… 
+
 === 2026-10-14 | Permanent state of rush
 
 I really enjoy rushing, minimising stationary time i.e. the time waiting between activities, meetings and engagements by squeezing things as close together as possible, maximising what I can get done in a day. I think it’s also the main driver of me going from being extroverted (someone who liked to hang out with other people) to turning more of an introverted extrovert (I don’t mind hanging out with people, but I just don’t like wasting my time).
