@@ -7,6 +7,10 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-10-16 | Greyscale
+
+One of the things I’ve changed recently is time spent on IG, which has obviously reduced my screen time vastly. I just use it once a day now, my concentration in general has gotten better, but I also need to stop using X too (my excuse is staying up to date with crypto and markets). I was listening to a podcast today with a behavioural scientist and they suggested something I hadn’t considered before: turning one’s phone greyscale to reduce stimulation. Naturally my phone is now greyscale, I can already foresee it will be a bit annoying when making content but this could be a game changer. Will report back.
+
 === 2026-10-15 | Does it really work
 
 I sauna everyday, not because of the supposed health benefits, but because in general I like being hot. It’s also why I prefer to train and exist without aircon, no matter how hot it is, and why I loved summer in Europe this year. I’m not entirely convinced by the health benefits of sauna, and a lot of the other ‘recovery’ tools like cold plunge and HBOT, as my sleep and recovery (admittedly marked by Whoop/Oura/Eight sleep which all carry some degree of error) doesn’t seem to see a difference and I also don’t feel much different the next day.
