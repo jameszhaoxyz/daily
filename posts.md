@@ -7,6 +7,10 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-10-17 | Cooking
+
+Despite enjoying being outside and undergoing some sort of physical activity I think there’s something therapeutic about cooking meals from scratch. I don’t have a lot of spare time to cook extensively, so generally will put together brunch plates from simple ingredients on the weekend, like tinned sardines, smoked salmon, fruit and eggs, but when I have time I enjoy stewing things. Stews are particularly good for sharing, especially in a big Dutch oven. Tonight I stewed beef brisket, tendon and shank with carrots and turnip. Tendon takes around 4 hours, especially the big chunks, whole pieces of shank around 3 and beef brisket pieces around 2. Cooking from scratch whilst being busy is just another game of planning!
+
 === 2026-10-16 | Greyscale
 
 One of the things I’ve changed recently is time spent on IG, which has obviously reduced my screen time vastly. I just use it once a day now, my concentration in general has gotten better, but I also need to stop using X too (my excuse is staying up to date with crypto and markets). I was listening to a podcast today with a behavioural scientist and they suggested something I hadn’t considered before: turning one’s phone greyscale to reduce stimulation. Naturally my phone is now greyscale, I can already foresee it will be a bit annoying when making content but this could be a game changer. Will report back.
