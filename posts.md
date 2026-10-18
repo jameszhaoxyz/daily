@@ -7,6 +7,10 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-10-18 | Midterms
+
+It just seems too simple for the market to nuke it all post midterms. For the last few months I’ve been telling myself, the top will be Anthropic/OpenAI IPO alongside the midterms, but now we’re getting closer, everyone seems to think the same thing. Markets are definitely jittery, we had some decent earnings last week and all the negatives were seemingly extrapolated forwards instead. Then we have the Iran situation, where Trump doesn’t seem to want to commit to anything yet, and has even explicitly stated that large strikes are coming after the midterms. Something has to give with the crack spreads if we are to resume the march upwards. Maybe we’ve had the top and the market is pricing post-midterms a few weeks early, some food for thought…
+
 === 2026-10-17 | Cooking
 
 Despite enjoying being outside and undergoing some sort of physical activity I think there’s something therapeutic about cooking meals from scratch. I don’t have a lot of spare time to cook extensively, so generally will put together brunch plates from simple ingredients on the weekend, like tinned sardines, smoked salmon, fruit and eggs, but when I have time I enjoy stewing things. Stews are particularly good for sharing, especially in a big Dutch oven. Tonight I stewed beef brisket, tendon and shank with carrots and turnip. Tendon takes around 4 hours, especially the big chunks, whole pieces of shank around 3 and beef brisket pieces around 2. Cooking from scratch whilst being busy is just another game of planning!
