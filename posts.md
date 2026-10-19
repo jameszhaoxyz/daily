@@ -7,6 +7,12 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-10-19 | Pleading the 5th
+
+Bumped into an old acquaintance on my way home. He’s an assistant professor of neurology in Boston, but with a love for talking about everything and anything. In the 15 minutes we caught up for, I learnt about the history of the health system in the US, especially in the context compared to how the NHS came about; the establishment and rules of Medicare, Obamacare and insurance system; books that influenced these systems directly; what went wrong with Fauci and Covid; his thoughts on the safety of said vaccine as well as why Fauci shouldn’t be allowed to plead the 5th - “as the nation’s doctor”.
+
+Amazing how much you can learn in such a short amount of time, it’s a big reason why I love asking questions when I talk to people!
+
 === 2026-10-18 | Midterms
 
 It just seems too simple for the market to nuke it all post midterms. For the last few months I’ve been telling myself, the top will be Anthropic/OpenAI IPO alongside the midterms, but now we’re getting closer, everyone seems to think the same thing. Markets are definitely jittery, we had some decent earnings last week and all the negatives were seemingly extrapolated forwards instead. Then we have the Iran situation, where Trump doesn’t seem to want to commit to anything yet, and has even explicitly stated that large strikes are coming after the midterms. Something has to give with the crack spreads if we are to resume the march upwards. Maybe we’ve had the top and the market is pricing post-midterms a few weeks early, some food for thought…
