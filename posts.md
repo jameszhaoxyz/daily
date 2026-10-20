@@ -7,6 +7,16 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-10-20 | Disobedience
+
+The Western world looks to be disintegrating further and further. Curfew extended in parts of France following the explosive protests on the weekend, Albania is seeing unrest from university students, an Australian MP got attacked.
+
+The protests in France are covered quite differently by the media compared to the protests in HK back in 2019; being in the moment it wasn’t nearly as bad as the media portrayed vs I’m imagining given the damage done to shops and random restaurants it’s much worse in France than the media suggests. 
+
+Another thing that’s different though is the way the protests actually happen, shops were getting looted in France, people’s livelihoods and storefronts burnt down, similar to the riots in the UK many years back (I remember the iconic picture of a kid stealing a bag of rice from) versus in HK people were just on the streets clashing with police, congregating and chanting, I don’t recall physical damage being done to infrastructure or shops on purpose. On the contrary, people were leaving cash on the MTR ticket machines to help other people pay for tickets to avoid getting tracked.
+
+Seems like the French protests are just an excuse for people to steal and loot rather than for a cause.
+
 === 2026-10-19 | Pleading the 5th
 
 Bumped into an old acquaintance on my way home. He’s an assistant professor of neurology in Boston, but with a love for talking about everything and anything. In the 15 minutes we caught up for, I learnt about the history of the health system in the US, especially in the context compared to how the NHS came about; the establishment and rules of Medicare, Obamacare and insurance system; books that influenced these systems directly; what went wrong with Fauci and Covid; his thoughts on the safety of said vaccine as well as why Fauci shouldn’t be allowed to plead the 5th - “as the nation’s doctor”.
