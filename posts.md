@@ -7,6 +7,14 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-10-21 | I’m a planner
+
+Today I spent the majority of my spare brain capacity thinking about the different iterations of spending my Marriott points in the Maldives, especially fitting the dates around my prior engagements. Some people would find that rather boring, but it combines my interest of seeing the world with my other interest of optimising for expected value. 
+
+I definitely like planning holidays more than most, but I’m also very relaxed on the actual scheduling. I just need flights, hotel, some dinners booked and a vague plan. I feel like the time people allocate for touristy activities always overshoot, and I don’t like milling around, hence my hatred for group tours and my love for winging it once I get to the place.
+
+Regardless, I’ll be looking forward to finally going to the Maldives soon, it’s been a long time coming.
+
 === 2026-10-20 | Disobedience
 
 The Western world looks to be disintegrating further and further. Curfew extended in parts of France following the explosive protests on the weekend, Albania is seeing unrest from university students, an Australian MP got attacked.
