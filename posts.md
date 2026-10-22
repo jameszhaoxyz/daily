@@ -7,6 +7,14 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-10-22 | 2 weeks out
+
+I’m 2 weeks out from my second IDFPA World Championships, and again I’m pushing the boat out regarding when I start properly eating clean to cut down. This week I’ve seen both my weight touch 84kg before bed and a 78 handle in the morning (78.9 this morning). It’s amazing what weight manipulation you can do on your body just by eating slightly differently in just a few days. 
+
+Mentally, I don’t feel in tip top condition but I’m stable. I’m looking forward to competing in a novel location again, it’s always exciting, but I’m not looking forward to being in a city for a week surrounded by delicious Texas BBQ and knowing that the food has additives that will take days for my body to flush out. Such is life. Physically, I’m a little beat up, but not more than usual. My shoulder is coming back to life, and my knee has stopped giving me grief. I look forward to displaying my confidence in my squat on the platform.
+
+Some things I will try this time include not gulping the liquids down like crazy after weighing in, and trying to eat less during the recomp. I honestly think I wouldn’t do too badly fasted, but I will eat a little for sustenance. Good to note these down before I enter the deep depths of the mental chambers during my cut. Otherwise, I’m looking forward to another chance to show myself what I’m capable of. Year 11 into Year 12, let’s go!
+
 === 2026-10-21 | I’m a planner
 
 Today I spent the majority of my spare brain capacity thinking about the different iterations of spending my Marriott points in the Maldives, especially fitting the dates around my prior engagements. Some people would find that rather boring, but it combines my interest of seeing the world with my other interest of optimising for expected value. 
