@@ -7,6 +7,12 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-10-23 | Public vs private
+
+Impressed is not usually a word one typically describes their dentist visit, but it’s what I feel after my annual trip to my dentist in HK. The experience is executed with ruthless efficiency, which is something I deeply admire. The initial inspection takes around 2 minutes, the X-rays on both sides takes another 2 minutes, there’s 15 minutes of cleaning and then a conversation with the dentist about the state of your teeth; in total I’m in an out without 30 minutes.
+
+That’s capitalism for you. Private healthcare where they are optimising for efficient use of their dentist’s time (can substitute doctor or any healthcare specialist) and maximising throughput (typically for insurance claims) is flagship capitalism. Can’t imagine anyone’s ever left a public dentist feeling impressed.
+
 === 2026-10-22 | 2 weeks out
 
 I’m 2 weeks out from my second IDFPA World Championships, and again I’m pushing the boat out regarding when I start properly eating clean to cut down. This week I’ve seen both my weight touch 84kg before bed and a 78 handle in the morning (78.9 this morning). It’s amazing what weight manipulation you can do on your body just by eating slightly differently in just a few days. 
