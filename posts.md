@@ -7,6 +7,14 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-10-24 | Homogenise
+
+It’s not politically correct to admit it but homogeneous societies just feel safer to me. On top of multiple other things, I discussed this at length with a friend from the US, the Harvard neuroscience professor I bumped into earlier this week, and he made an interesting point.
+
+I just thought this to be true because everyone shares the same values, but he said “it’s easier to commit crime against someone who’s different to you”.
+
+There are many things that make societies homogeneous. One is obviously race, but another is sharing the same experience together, like the military. It could make sense to bring back national service for some countries?
+
 === 2026-10-23 | Public vs private
 
 Impressed is not usually a word one typically describes their dentist visit, but it’s what I feel after my annual trip to my dentist in HK. The experience is executed with ruthless efficiency, which is something I deeply admire. The initial inspection takes around 2 minutes, the X-rays on both sides takes another 2 minutes, there’s 15 minutes of cleaning and then a conversation with the dentist about the state of your teeth; in total I’m in an out without 30 minutes.
