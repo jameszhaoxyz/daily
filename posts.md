@@ -7,6 +7,12 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-10-25 | Short form content
+
+As much as I dislike the consumption of short form content, I do think there’s value in learning to create viral videos. On top of filming better content or improving the framing or transitions, you can even improve by thinking about human psychology and herd mentality. But there’s definitely an over-saturation of this, so it might not be too late to learn to make long form content like YouTube videos, despite it being around for longer.
+
+Just takes a much bigger upfront investment both time wise and monetarily, which makes it also a barrier for entry for others and a future moat if executed well.
+
 === 2026-10-24 | Homogenise
 
 It’s not politically correct to admit it but homogeneous societies just feel safer to me. On top of multiple other things, I discussed this at length with a friend from the US, the Harvard neuroscience professor I bumped into earlier this week, and he made an interesting point.
