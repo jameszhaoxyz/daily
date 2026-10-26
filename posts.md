@@ -7,6 +7,12 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-10-26 | Flowers
+
+So I recently got a bouquet of flowers for my wife for our anniversary, and I spent a decent amount of time mulling over the options at the flower stand before choosing a nice (or what I thought was nice) bouquet of uniform white and blue roses. Turns out they were not the right choice. We even cross verified with a few other valued opinions and they all came back the same way.
+
+My questions are: firstly, why even sell bouquets that are not pretty? Secondly, why was I drawn to a uniform bouquet? Thirdly, why did I spend 17 years in various education establishments to not be taught how to choose a bouquet of flowers?
+
 === 2026-10-25 | Short form content
 
 As much as I dislike the consumption of short form content, I do think there’s value in learning to create viral videos. On top of filming better content or improving the framing or transitions, you can even improve by thinking about human psychology and herd mentality. But there’s definitely an over-saturation of this, so it might not be too late to learn to make long form content like YouTube videos, despite it being around for longer.
