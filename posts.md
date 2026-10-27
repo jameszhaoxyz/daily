@@ -7,6 +7,10 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-10-27 | Nomad vs Routine
+
+Digital nomad life is definitely over glamorised; unless you have a remote job where you actually need to be living from a suitcase, I can’t really see the actual need to live somewhere new all the time. I much prefer and highly recommend what I have now: a stable base to call home, with a consistent daily routine. Then once that is established, being able to go to a new city and finding a similar routine: where to eat, where to gym, where to run. Collecting these routines in every city I go to are my new infinity stones.
+
 === 2026-10-26 | Flowers
 
 So I recently got a bouquet of flowers for my wife for our anniversary, and I spent a decent amount of time mulling over the options at the flower stand before choosing a nice (or what I thought was nice) bouquet of uniform white and blue roses. Turns out they were not the right choice. We even cross verified with a few other valued opinions and they all came back the same way.
