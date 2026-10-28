@@ -7,6 +7,10 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-10-28 | Under the weather
+
+The last two days the weather has turned markedly colder in HK; maybe by coincidence I have been feeling much worse. I just hate the cold. In fact the last two days I have given myself every excuse to push my workouts back one day, but decided to soldier through. Even though mentally I was not ready to workout, physically once I started training my body felt great, the workouts were smooth and I felt strong. Just a small reminder that the human body is much more capable than what we think, barring serious illness or injury we can continue to march on forwards!
+
 === 2026-10-27 | Nomad vs Routine
 
 Digital nomad life is definitely over glamorised; unless you have a remote job where you actually need to be living from a suitcase, I can’t really see the actual need to live somewhere new all the time. I much prefer and highly recommend what I have now: a stable base to call home, with a consistent daily routine. Then once that is established, being able to go to a new city and finding a similar routine: where to eat, where to gym, where to run. Collecting these routines in every city I go to are my new infinity stones.
