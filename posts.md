@@ -7,6 +7,14 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-10-29 | Health trackers
+
+I’ve been a user of Whoop for over 3 years, Eight Sleep for over 1.5 and had an Oura for nearly a year. I enjoy tracking my data, but I’ve learnt to interpret the results with a pinch of salt. My recovery score on Whoop rarely corresponds to how I’m actually feeling that day, although I do get a warm fuzzy feeling when I hit a 95 recovery score.
+
+I mentioned yesterday I was feeling under the weather for two days, both days I had a 90+ score. Today I feel amazing and woke up with a 50 recovery. Case in point. Although the weather has turned warmer, maybe the Whoop recovery score should take preference for weather into account. Coincidentally ran a small 10k PR today (55”, 5:30/km); nothing crazy as I’ve yet to push a 10k but shows how the score isn’t everything.
+
+The natural follow up is: why use a Whoop? I think there’s benefit in the hard data it collects: HRV, resting heart rate, etc, whilst the interpretation probably isn’t there yet (or maybe doesn’t work for strength athletes) I’m sure in the future someone or some AI will work it out. Until then, I’ll keep collecting.
+
 === 2026-10-28 | Under the weather
 
 The last two days the weather has turned markedly colder in HK; maybe by coincidence I have been feeling much worse. I just hate the cold. In fact the last two days I have given myself every excuse to push my workouts back one day, but decided to soldier through. Even though mentally I was not ready to workout, physically once I started training my body felt great, the workouts were smooth and I felt strong. Just a small reminder that the human body is much more capable than what we think, barring serious illness or injury we can continue to march on forwards!
