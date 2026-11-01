@@ -7,6 +7,16 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-10-31 | Stars & Stripes
+
+As soon as I land in the US I always get reminded left, right and center all the things I like and dislike about it. The sheer scale of everything is unparalleled, which leads you to need a car to get anywhere. It’s actually just so hard to naturally get steps in due to this, so you have to actually be conscious about it. This morning I walked to the nearest post office near my hotel, it was 1.5 hours away, but I was pleasantly surprised that despite the wide roads and being out in the middle of nowhere surrounded by cars zooming around (near DFW airport) there was actually pavement to walk on… 
+
+=== 2026-10-30 | Lazarus strikes again
+
+Woke up to the glorious (sarcasm) headlines of a $6bn hack on Binance, purportedly by North Korean group Lazarus, with withdrawals frozen whilst checks being undergone. Price action seems relatively muted for the biggest hack of all time, seems $3bn has been frozen onchain already though. 
+
+But then if you think about it, muted action makes a bit more sense. There’s definitely diminishing returns for a hack at this scale: limited liquidity and ways to launder the crypto into fiat, the scale of enforcement and white hats working around the clock monitoring you for the smallest slip ups, it is literally in everyone’s interest to work together. You’d probs do better over time doing smaller ones, maybe the muted price action is everyone coming to the same conclusion. Luckily it seems funds are SAFU!
+
 === 2026-10-29 | Health trackers
 
 I’ve been a user of Whoop for over 3 years, Eight Sleep for over 1.5 and had an Oura for nearly a year. I enjoy tracking my data, but I’ve learnt to interpret the results with a pinch of salt. My recovery score on Whoop rarely corresponds to how I’m actually feeling that day, although I do get a warm fuzzy feeling when I hit a 95 recovery score.
