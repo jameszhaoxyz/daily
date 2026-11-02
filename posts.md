@@ -7,6 +7,12 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-11-01 | Paying my dues
+
+Given my fondness for travel and especially tight connections to reduce waiting time, I frequently find myself thinking how lucky I am that I haven’t been inconvenienced by a delayed or cancelled flight in some time. Well, today was a good day to pay my dues: I had no immediate plans I couldn’t miss and Houston is so close to Dallas that worst comes to worst I could’ve ubered. Luckily I was already up early from jet-lag and clocks going back an hour when I found out it was cancelled; I managed to rebook to an earlier flight. 
+
+Unfortunately there were some delays but we made it eventually… no more delays for a few years, fingers crossed!
+
 === 2026-10-31 | Stars & Stripes
 
 As soon as I land in the US I always get reminded left, right and center all the things I like and dislike about it. The sheer scale of everything is unparalleled, which leads you to need a car to get anywhere. It’s actually just so hard to naturally get steps in due to this, so you have to actually be conscious about it. This morning I walked to the nearest post office near my hotel, it was 1.5 hours away, but I was pleasantly surprised that despite the wide roads and being out in the middle of nowhere surrounded by cars zooming around (near DFW airport) there was actually pavement to walk on… 
