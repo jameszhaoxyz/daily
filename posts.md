@@ -7,6 +7,10 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-11-02 | Flying blind
+
+This meet in 3 days will be an interesting one. Not because I had to fly halfway across the world, not because it’s a (fugazi) world championships, not because I’m alone out in Houston, but because I’m flying blind weight wise. The hotels I’ve been staying in don’t have scales. This is the first meet where I’ve been cutting weight and not meticulously measuring my weight every morning, evening and as much as I can in between. I should have enough cuts under the belt to do it off vibes, but still need some luck and a sauna! 
+
 === 2026-11-01 | Paying my dues
 
 Given my fondness for travel and especially tight connections to reduce waiting time, I frequently find myself thinking how lucky I am that I haven’t been inconvenienced by a delayed or cancelled flight in some time. Well, today was a good day to pay my dues: I had no immediate plans I couldn’t miss and Houston is so close to Dallas that worst comes to worst I could’ve ubered. Luckily I was already up early from jet-lag and clocks going back an hour when I found out it was cancelled; I managed to rebook to an earlier flight. 
