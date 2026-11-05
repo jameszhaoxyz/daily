@@ -7,6 +7,14 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-11-04 | Trust the process
+
+I got to weigh myself after my last water and meal before I sleep and I’m a lot heavier than usual. I also feel like I’m peeing less than usual but that’s probably all mind games. Gotta trust the process so I can sleep peacefully; I changed my water cut to stop 18 hours out (it’s used to basically be 30+) so I could sleep better!
+
+=== 2026-11-03 | Downtown or ghost town
+
+The byproduct of everyone driving everywhere here in Texas is that downtown Houston is an absolute ghost town. All they have here are some offices, a few restaurants dotted around, a lot of homeless and some great murals. Typically the centre of town is where you want to be staying on vacation, but here it may not be the best option. There’s a severe lack of supermarkets within close vicinity (defined by walking distance), but I guess that’s common for business districts. I’m actually not sure how people got around pre-Uber days if they couldn’t drive or rent a car, surely taxis would have been insanely inconvenient?
+
 === 2026-11-02 | Flying blind
 
 This meet in 3 days will be an interesting one. Not because I had to fly halfway across the world, not because it’s a (fugazi) world championships, not because I’m alone out in Houston, but because I’m flying blind weight wise. The hotels I’ve been staying in don’t have scales. This is the first meet where I’ve been cutting weight and not meticulously measuring my weight every morning, evening and as much as I can in between. I should have enough cuts under the belt to do it off vibes, but still need some luck and a sauna! 
