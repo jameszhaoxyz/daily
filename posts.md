@@ -7,6 +7,20 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-11-06 | Eating alone
+
+A perk of eating alone in the US is that even with highly popular restaurants where you have to make reservations weeks in advance, I’m generally able to walk in and sit at the bar immediately and have full service. Tonight I did that at one of my favourite restaurants in the US, China Poblano.
+
+I ended up sitting next to a 60 year old lady from Chicago who started a conversation with me but ended up being on the receiving end of my questions on inflation, the state of the US economy, her thoughts on the midterms and even Covid. It was actually quite interesting to hear an American perspective instead of reading the news and theorising what an American would think.
+
+Given her experiences travelling and her dreams it also reminded me how lucky I am to have the time, money, physical health and someone to travel and see the world with!
+
+=== 2026-11-05 | 2nd in the world?
+
+So I don’t usually like medals but apparently there’s some version of the world championships in powerlifting where I can come second! Anyway yesterday numbers wise wasn’t the best day. The tldr was I missed depth on opening squat, sank my second at 195 but it was hard, didn’t have 200, left arm hurt a little. Bench my left arm is dragging me back still but to bench 142.5 on any day given 140 was my plateau for 7 years is still great. Came in flat for deads, failed 272.5.
+
+There were a lot of positives to take away. I didn’t have scales for most of my last week, and made weight at 74.5kg pretty comfortably. The recomp was one of the best I’ve had and I was not bloated whatsoever. Mentally I was great. I didn’t reach high stress levels on my whoop so maybe I wasn’t aggressive enough during the meet (didn’t listen to music or use salts either). I did eat too much after (wolfed down Indian food from 1 Michelin star Musaafer, it was ok but quite salty and then had 2 cakes after) but all in all I have full confidence in myself to have a stellar 2027 powerlifting wise. 9x bw is still the next goal, come rain or shine, then 700+.
+
 === 2026-11-04 | Trust the process
 
 I got to weigh myself after my last water and meal before I sleep and I’m a lot heavier than usual. I also feel like I’m peeing less than usual but that’s probably all mind games. Gotta trust the process so I can sleep peacefully; I changed my water cut to stop 18 hours out (it’s used to basically be 30+) so I could sleep better!
