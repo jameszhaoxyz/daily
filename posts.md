@@ -7,6 +7,34 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-11-10 | Eating late
+
+As an ever optimiser of my physical and mental health, I have a laundry list of things that I try and prioritise daily. In order of priority, after Kellie, I would probably have work, getting my powerlifting training in and sufficient sleep at the top. As I move further down, it’s probably staying active (getting steps in and occasionally running), sleep consistency, and eating clean. 
+
+There are always times I get reminded of the importance of something. Last night I both trained and ate relatively late and close to bedtime: I can’t always optimise the timing of my workouts and meals, but the worse quality of sleep after is always a good reminder that they should be quite high priority!
+
+=== 2026-11-09 | Meat proxy
+
+The amount of ‘work’ I get asked to review which is just AI slop is so incredibly painful I’ve started explicitly calling it out.
+
+“Please look over this document I wrote and let me know what you think” but in reality they just chucked in a prompt to Claude and didn’t even review it, just passed it on straight to me.
+
+At least double check you understand it, it’s so obvious to me when I ask follow up questions that you don’t even understand half the doc you’ve asked me to read!
+
+And this is just going to get worse and worse as AI proliferates. And I won’t stop calling out lazy AI sloppers.
+
+=== 2026-11-08 | Tipping
+
+Tipping is something that I’ve come to accept as part of the fabric of being in the US, especially since I got chased out of that beachfront restaurant in Miami one time for apparently not tipping enough?! 
+
+I refuse to tip for takeaway or self pickup orders though, the whole premise of tipping as I understand it is that servers are not paid properly, but if I’m not getting service, I don’t think I should be tipping. This is mostly for picking up coffee and bakery items, I used to look away when I pressed no tip but now I keep eye contact. I have nothing to be ashamed of.
+
+=== 2026-11-07 | Airport efficiency
+
+Efficiency is not one word I would typically use to describe anything in the US but the process of flying is pretty optimised here, which makes sense given it’s so big and continental that everyone flies to get anywhere.
+
+You’re able to change your flights relatively easily, even on the cheapest ticket class, to standby for alternative flights on the same day. Having TSA pre and/or Clear make the security check process much shorter, which means you’re able to get to the airport much closer to boarding time. It’s relatively consistent across the country too, so instead of arriving 2 hours before departure time, even 30 minutes to 1 hour before boarding is generally sufficient!
+
 === 2026-11-06 | Eating alone
 
 A perk of eating alone in the US is that even with highly popular restaurants where you have to make reservations weeks in advance, I’m generally able to walk in and sit at the bar immediately and have full service. Tonight I did that at one of my favourite restaurants in the US, China Poblano.
