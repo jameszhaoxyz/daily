@@ -7,6 +7,16 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-11-12 | Value of a coach
+
+The best thing I did for my powerlifting was getting a coach. It keeps me accountable but also outsources the brain power required to think about how to adapt my training. I also don’t overshoot training, I follow the program to a tee, which might not be the case if I were to programme for myself. I highly recommend hiring a coach to anyone starting off in powerlifting but even intermediate or high level for these reasons and more.
+
+Having done a few Hyrox classes this week, I can also see the value in having a coach in other sidequests. I have no problem dragging myself to the gym, but I find doing cardio or high-intensity interval training is not easy purely by self-motivation. I’ve noticed being in a class environment can definitely push me more, but having spent 1 minute in zone 4 for 3 hours of class I think I still have a long way to improve there!
+
+=== 2026-11-11 | Live sports
+
+If there’s one thing that the US does well, it’s live sports. It’s wild to think that a basketball season has over 80 regular season games in the span of a few months, yet a random game on a Tuesday night, at the Garden no less, is packed to the brim to watch the Knicks blowout the Bucks. From the well choreographed time outs to the half time entertainment, the T-shirt tosses to the cheerleaders- live sports here is just something that every other country can learn from!
+
 === 2026-11-10 | Eating late
 
 As an ever optimiser of my physical and mental health, I have a laundry list of things that I try and prioritise daily. In order of priority, after Kellie, I would probably have work, getting my powerlifting training in and sufficient sleep at the top. As I move further down, it’s probably staying active (getting steps in and occasionally running), sleep consistency, and eating clean. 
