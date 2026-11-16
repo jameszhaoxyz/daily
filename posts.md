@@ -7,6 +7,23 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-11-15 | Combo rack safety
+
+I overheard a somber story at the powerlifting gym today of a freak accident that happened there last week, rendering a casual powerlifter paralysed from squats. It sounded like it could’ve maybe been prevented with side spotters, but for regular rep work generally no one would ask for spotters.
+
+Combo racks are not as safe for squatting alone as power racks or even some monolifts (the ones with self walkouts and hanging safeties); there’s definitely a higher rate of injury from combos for squats so a redesign is due. It’s also why I prefer squatting on power racks when I’m alone… safety first, accidents do happen!
+
+=== 2026-11-14 | The future
+
+One of my closest friends I saw yesterday recently started working at a frontier AI lab. Given I know her work ethic, and knowing one other person who works there, I have a baseline idea of how hard people must be working there (pretty hard!). 
+
+Naturally I asked a bucketload of questions but one thing stood out. She seemed to be pretty nonchalant about the future risks given how advanced the systems are becoming, seems like the general consensus is “it is what it is”. I guess she’s well hedged but the general public isn’t… some food for thought…
+
+=== 2026-11-13 | Cardio kills gains
+
+Powerlifters have been allergic to cardio for a while, but with my recent training I think there is an amount of heart training one can do that not only doesn’t affect your powerlifting but could supplement it. Although this year my competition totals have been battered by injuries, I think 2027 is feeling like a year where I can not only push to PR the total but improve my cardiovascular fitness. Let’s roll!
+
+
 === 2026-11-12 | Value of a coach
 
 The best thing I did for my powerlifting was getting a coach. It keeps me accountable but also outsources the brain power required to think about how to adapt my training. I also don’t overshoot training, I follow the program to a tee, which might not be the case if I were to programme for myself. I highly recommend hiring a coach to anyone starting off in powerlifting but even intermediate or high level for these reasons and more.
