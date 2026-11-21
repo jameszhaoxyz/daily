@@ -7,6 +7,36 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-11-20 | Co-fermented coffee
+
+I had a pretty special espresso this morning, a single-origin strawberry co-ferment from a local NY coffee roaster. It tasted as good as it smelt, which is no mean feat given it smelt incredible. It reminded me of one of our life-changing coffees- the one that set Kellie down her path of V60 and hand drip- which was a watermelon co-ferment.
+
+I wonder if co-fermenting with fruit is cheating. Seems like it’s not the inherent character of the beans have strawberry notes, but rather the fact that it has spent time fermenting with strawberries that gives the coffee the unique taste. It does take skill though to roast it properly after and then extract the espresso properly, so still kudos, it was a great start to the morning!
+
+=== 2026-11-19 | Consensus trade
+
+Happy Anthropic IPO day to all those who celebrate! As of writing $ANT is up 15% on IPO price, which is the standard opening day pop. Earlier in the year, I told myself that the Anthropic and OpenAI IPOs would mark the top of the IPO trade; now that I’m here, it’s far too obviously the consensus trade. Everyone and their mothers are calling this the top of the bubble… I feel like the Korean export data, the FUD, the general consensus all make it far too obvious. It’d be life on easy mode. Shuffle up, let’s play!
+
+=== 2026-11-18 | Weekend jet lag
+
+Having slept much (2 hours) past my bedtime on Saturday night for the enjoyment of watching UFC 334 it seems that I am still paying the price 4 days later with a foggy brain. Not sure how I used to do this every weekend for two nights, sometimes staying up all night. There’s a fine line between enjoying life and optimising for health though, have to live a little…
+
+=== 2026-11-17 | Living up to the hype
+
+As a lover of food, hyped restaurants are part of the parcel when searching for the next meal when travelling. NYC is no different; it is a melting pot of long-standing restaurants and the next hottest thing- honestly one of the best cities for food. 
+
+Despite happy to try the hype, I find that it is rare though for popular restaurants to live up to it; I can probably count the ones I’ve visited around the world on two hands, but we can add Theodora to that list. Bookings are basically impossible but walk-ins are possible at a bright hour of 5pm, and it is most definitely worth it. It’s on the NYC must-visit list, party of 2. Atomix makes up the list…
+
+=== 2026-11-16 | Is this new?
+
+My friend defended the recent meteoric rise in prediction markets (more like disguised sportsbook) as we were discussing the legalisation of perpetual futures trading in the US. The comparison given was to lottery tickets, which is also a known form of legalized gambling.
+
+I think there are a few differences here. Firstly, prediction markets are not marketed as gambling but rather a form of investment, which means our generation thinks of it as a smart way to invest in order to secure their financial future. 
+
+Secondly, lottery tickets are a legacy form of gambling associated with a much older generation, it has nothing to do with how popular prediction markets are with the younger generation. 
+
+Finally, lottery tickets are pure luck (sometimes there are edge cases where it can be positive EV to play) but for prediction markets it is technically possible to build models or have a human edge trading, which gives it the thin veneer as a form of investment…
+
 === 2026-11-15 | Combo rack safety
 
 I overheard a somber story at the powerlifting gym today of a freak accident that happened there last week, rendering a casual powerlifter paralysed from squats. It sounded like it could’ve maybe been prevented with side spotters, but for regular rep work generally no one would ask for spotters.
