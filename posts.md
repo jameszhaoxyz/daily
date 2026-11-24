@@ -7,6 +7,26 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-11-23 | Puerto Escondido
+
+A surprisingly large number of people I’ve met here in two days have told me that either they or someone they know arrived in Puerto Escondido and either don’t have a flight home and plan to be here indefinitely or have decided to stay since arriving. 
+
+On paper, it’s a great place to live: sun, beautiful beaches, good vibes, healthy food and decently cheap but higher living standards, but it’s not for me- two days is enough. It always sounds amazing to go to one of these places but it reminds me that I’m a concrete jungle boy through and through. Give me supermarkets, high rises and pavement any day of the week!
+
+=== 2026-11-22 | Thailand of the West
+
+Kellie brought up an interesting thought yesterday: Mexico and Thailand are strikingly similar countries, including many direct parallels between their capitals, Mexico City and Bangkok.
+
+Both have very distinct and unique cuisines and foods that also draws on influence from their surrounding regions; both capitals have decent public transport options with horrific traffic at the worst of times, with motorbikes free to roam as they wish. The wealth gap is obvious: there are many expat areas but the outskirts of the cities house the locals. There are many options for both tourists and locals alike, day and night, for cheap eats, staffed by people chasing a dream and grinding hard. The capitals especially are very highly rated destinations for international brands to expand, but with also local chefs running exemplary restaurants. They have plenty of popular beach destinations all over the country, such as Phuket, Tulum, Koh Samui and Puerto Escondido. 
+
+The more I see, the less I can unsee!
+
+=== 2026-11-21 | Sushiro NYC
+
+You can tell a lot from what’s popular these days. Sushiro opened this week to huge lines in New York, with an emphasis on the usual Japanese hospitality but an even larger emphasis on the NO TIPPING policy, where ads are even running on social media showing a waitress running out with the tip to return it to customers! It’s actually unbelievable how expensive things are in the US, especially living costs… the people are happy with a reprieve like a mandatory no tipping policy.
+
+P.S. it doesn’t help with the markets dumping either…
+
 === 2026-11-20 | Co-fermented coffee
 
 I had a pretty special espresso this morning, a single-origin strawberry co-ferment from a local NY coffee roaster. It tasted as good as it smelt, which is no mean feat given it smelt incredible. It reminded me of one of our life-changing coffees- the one that set Kellie down her path of V60 and hand drip- which was a watermelon co-ferment.
