@@ -7,6 +7,18 @@ Add a new block at the TOP of the "posts" section below.
 Each post starts with a line: === YYYY-MM-DD | Title
 Everything until the next "===" line is the post body (markdown + LaTeX).
 -->
+=== 2026-11-25 | Seven moles
+
+For somewhere that is so universally acclaimed to be the food capital of Mexico, Oaxaca is a little underwhelming. It’s a fairly small but charming city with a distinct character, but I feel like Mexico City actually has a wider range of food options and cuisines. It could however be famous due to being the birthplace of the seven moles, one of which we learnt to make today- the mole negro.
+
+There’s a lot that goes into a mole negro. I remember having the famous one at Pujol a few years ago and being struck by the deep layers of flavour. I learnt today how the layer of smokiness comes into it, I feel like a lot of people would consider the burnt chilis as a potential carcinogen rather than an ingredient but to each their own!
+
+=== 2026-11-24 | Mild inconvenience 
+
+As of writing, we’ve been mildly inconvenienced by a local protest against the government and its highway connecting Puerto Escondido and Oaxaca City. The plan was to take a 3 hour taxi, chosen over a 40 minute plane ride as it would’ve taken time on either side anyway to and from the airport. The backup plan was to charter that plane, but in the end the pilot stopped replying so we’re currently halfway through the 7 hour drive along a winding road up and down the mountain instead. 
+
+If the plan was to bring awareness to the highway and its effect on the local community, I think it’s working!
+
 === 2026-11-23 | Puerto Escondido
 
 A surprisingly large number of people I’ve met here in two days have told me that either they or someone they know arrived in Puerto Escondido and either don’t have a flight home and plan to be here indefinitely or have decided to stay since arriving. 
